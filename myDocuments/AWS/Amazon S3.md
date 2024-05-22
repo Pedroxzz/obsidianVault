@@ -1,0 +1,2 @@
+[[_AWSRECURSOS_]]
+Esse serviço da AWS funciona para diferentes situações como backup de dados, repositório para arquivos estáticos do website ou aplicações. Solução para a armazenagem de objetos em Buckets. Pode ser usado para guardar qualquer tipo de coisa

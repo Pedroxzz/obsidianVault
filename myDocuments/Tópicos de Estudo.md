@@ -1,0 +1,83 @@
+
+Pedi para o Raphael alguns tópicos de estudo para conhecimento.
+
+- [x] [CI/CD](CI.CD)  
+- [x] Conceito CI/CD  
+- [ ] Jenkins  
+- [ ] Codepipeline / CodeBuild  
+- [ ] Gitlab CI  
+- [ ] GitFlow  
+- [ ] Observabilidade  
+- [ ] Conceitos de Observabilidade  
+- [ ] Grafana  
+- [ ] Dynatrace  
+- [ ] Kibana  
+- [ ] AWS CloudWatch  
+- [ ] Sistemas Operacionais  
+- [ ] Conceito de Sistemas Operacionais  
+- [ ] Linux  
+- [ ] Ferramentas de Gestão de Identidade  
+- [ ] IAM
+- [ ] Active Directory  
+- [ ] Bancos Relacionais  
+- [ ] RDS  
+- [ ] Aurora  
+- [ ] Maria DB  
+- [ ] My SQL  
+- [ ] Oracle  
+- [ ] Bancos Não Relacionais  
+- [ ] Mongo DB  
+- [ ] Document DB  
+- [ ] Dynamo DB  
+- [ ] Serviços Web  
+- [ ] Apache  
+- [ ] NGINX  
+- [ ] Segurança  
+- [ ] Conceito de Segurança  
+- [ ] DAST / SAST  
+- [ ] WAF  
+- [x] [[Firewall]]  
+- [ ] SonarQube  
+- [ ] Owasp zap  
+- [ ] AWS Guardduty  
+- [x] [[CDN]]  
+- [x] Conceitos de CDN  
+- [ ] CloudFront  
+- [ ] Verizon  
+- [ ] Automação  
+- [ ] Terraform  
+- [ ] Ansible  
+- [ ] Python  
+- [ ] Cloudformation  
+- [ ] Serverless  
+- [ ] Terragrunt  
+- [ ] AWS  
+- [ ] EKS  
+- [ ] ECS Fargate  
+- [ ] EC2  
+- [ ] S3  
+- [x] [[Amazon CloudFront]]  
+- [ ] VPC  
+- [ ] Securit Group  
+- [ ] Route Table  
+- [ ] NatGateway  
+- [ ] ALB  
+- [ ] NLB  
+- [ ] Cloudwatch  
+- [ ] AWS Backup  
+- [ ] Cognito  
+- [ ] Lambda  
+- [ ] ElasticCache  
+- [ ] Athena / Glue  
+- [ ] Secrets Manager  
+- [ ] SSMParameterStore  
+- [ ] Kinesis  
+- [ ] Directory Services  
+- [ ] SSO / IAM  
+- [ ] Router 53  
+- [ ] ECR  
+- [ ] Auto Scaling Group  
+- [ ] EBS  
+- [ ] EFS  
+- [ ] Certificate Manager ACM  
+- [ ] AWS Landing Zone
