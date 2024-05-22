@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 3941257
       }
+    },
+    {
+      "query": "tag:#quickNotes  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711854
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 10.0831600831601,
   "linkStrength": 0.54989604989605,
   "linkDistance": 201,
-  "scale": 1.0534979423868678,
-  "close": true
+  "scale": 0.3823010968770113,
+  "close": false
 }
