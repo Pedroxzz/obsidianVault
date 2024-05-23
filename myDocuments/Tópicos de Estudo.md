@@ -12,12 +12,12 @@ Pedi para o Raphael alguns tópicos de estudo para conhecimento.
 - [ ] Grafana  
 - [ ] Dynatrace  
 - [ ] Kibana  
-- [ ] AWS CloudWatch  
+- [ ] [[AWS CloudWatch]]  
 - [ ] Sistemas Operacionais  
 - [ ] Conceito de Sistemas Operacionais  
 - [ ] Linux  
-- [ ] Ferramentas de Gestão de Identidade  
-- [ ] IAM
+- [x] [[Ferramentas de Gestão de Identidade  ]]
+- [x] [[AWS IAM]]
 - [ ] Active Directory  
 - [ ] Bancos Relacionais  
 - [ ] RDS  
@@ -63,7 +63,7 @@ Pedi para o Raphael alguns tópicos de estudo para conhecimento.
 - [ ] NatGateway  
 - [ ] ALB  
 - [ ] NLB  
-- [ ] Cloudwatch  
+- [x] [[AWS CloudWatch|Cloudwatch]]  
 - [ ] AWS Backup  
 - [ ] Cognito  
 - [ ] Lambda  
@@ -74,7 +74,7 @@ Pedi para o Raphael alguns tópicos de estudo para conhecimento.
 - [ ] Kinesis  
 - [ ] Directory Services  
 - [ ] SSO / IAM  
-- [ ] Router 53  
+- [x] [[Amazon Route 53|Router 53 ]] 
 - [ ] ECR  
 - [ ] Auto Scaling Group  
 - [ ] EBS  
