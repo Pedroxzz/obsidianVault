@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "127f481a66eca98c",
+        "id": "7d7fc25aebbb901f",
         "type": "tabs",
         "children": [
           {
-            "id": "ce41bd052bd60beb",
+            "id": "07af7e6e2ead544d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dicty/DNS.md",
+                "file": "AWS/AWS Lambda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6aaae0a3359053a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/05-MAIO/2024-05-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dicty/DNS.md",
+                "file": "Daily/05-MAIO/2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dicty/DNS.md",
+                "file": "Daily/05-MAIO/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dicty/DNS.md"
+                "file": "Daily/05-MAIO/2024-05-27.md"
               }
             }
           }
@@ -148,38 +161,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce41bd052bd60beb",
+  "active": "6aaae0a3359053a2",
   "lastOpenFiles": [
-    "AWS/Amazon Route 53.md",
-    "AWS/Amazon S3.md",
-    "Dicty/DNS.md",
-    "Dicty/QuickNotes/TLD.md",
-    "Dicty/Endpoint.md",
-    "Dicty/CDN.md",
-    "Dicty/CI.CD.md",
-    "Dicty/Container.md",
-    "Dicty/QuickNotes/Computação de borda.md",
-    "Dicty/Gateways NAT.md",
-    "Dicty/Firewall.md",
+    "Daily/05-MAIO/2024-05-24.md",
+    "Daily/05-MAIO/2024-05-27.md",
+    "AWS/AWS Lambda.md",
+    "Tópicos de Estudo.md",
+    "AWS/Amazon CloudFront.md",
+    "AWS/AWS IAM.md",
+    "AWS/Amazon ECS.md",
+    "Dicty/QuickNotes/Injeção de SQL.md",
     "Dicty/ETL.md",
-    "Dicty/DDoS.md",
+    "Dicty/Container.md",
+    "AWS/AWS CloudWatch.md",
+    "AWS/VPC.md",
+    "Dicty/WAF.md",
+    "Dicty/QuickNotes/Cross-site-scripting (XSS).md",
+    "Dicty/QuickNotes/DDoS.md",
+    "Dicty/Firewall.md",
+    "AWS/Amazon S3.md",
+    "Daily/05-MAIO/2024-05-23.md",
+    "Daily/05-MAIO/2024-05-22.md",
+    "Dicty/QuickNotes/TLD.md",
+    "Dicty/QuickNotes/Proxy reverso.md",
+    "Dicty/QuickNotes/Ferramentas de Gestão de Identidade.md",
+    "Dicty/QuickNotes/Falsificação de solicitação de sites.md",
+    "Dicty/QuickNotes/Computação de borda.md",
+    "AWS/Amazon ECR.md",
+    "AWS/Elastic Load Balancing.md",
     "Dicty/QuickNotes",
     "IMGS/DNS/dnsExample.png",
     "IMGS/DNS",
     "Pasted image 20240522172905.png",
-    "Daily/05-MAIO/2024-05-22.md",
-    "AWS/AWS IAM.md",
-    "Sem título.md",
-    "Tópicos de Estudo.md",
-    "Dicty/_DICTY_.md",
-    "().md",
-    "AWS/_AWSRECURSOS_.md",
-    "AWS/Amazon ECR.md",
-    "AWS/Amazon ECS.md",
-    "AWS/AWS Security Hub.md",
-    "AWS/DynamoDB.md",
-    "AWS/VPC.md",
-    "AWS/RDS.md",
     "Conceito CI",
     "Dicty/FastNotes",
     "Dicty/FastNotes",

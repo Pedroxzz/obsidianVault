@@ -12,12 +12,12 @@ Pedi para o Raphael alguns tópicos de estudo para conhecimento.
 - [ ] Grafana  
 - [ ] Dynatrace  
 - [ ] Kibana  
-- [ ] AWS CloudWatch  
+- [x] [[AWS CloudWatch]]  
 - [ ] Sistemas Operacionais  
 - [ ] Conceito de Sistemas Operacionais  
 - [ ] Linux  
-- [ ] Ferramentas de Gestão de Identidade  
-- [ ] IAM
+- [x] [[Ferramentas de Gestão de Identidade  ]]
+- [x] [[AWS IAM]]
 - [ ] Active Directory  
 - [ ] Bancos Relacionais  
 - [ ] RDS  
@@ -35,14 +35,14 @@ Pedi para o Raphael alguns tópicos de estudo para conhecimento.
 - [ ] Segurança  
 - [ ] Conceito de Segurança  
 - [ ] DAST / SAST  
-- [ ] WAF  
+- [x] [[WAF]]  
 - [x] [[Firewall]]  
 - [ ] SonarQube  
 - [ ] Owasp zap  
 - [ ] AWS Guardduty  
 - [x] [[CDN]]  
 - [x] Conceitos de CDN  
-- [ ] CloudFront  
+- [x] [[Amazon CloudFront|CloudFront]]  
 - [ ] Verizon  
 - [ ] Automação  
 - [ ] Terraform  
@@ -55,18 +55,18 @@ Pedi para o Raphael alguns tópicos de estudo para conhecimento.
 - [ ] EKS  
 - [ ] ECS Fargate  
 - [ ] EC2  
-- [ ] S3  
+- [x] [[Amazon S3|S3]]
 - [x] [[Amazon CloudFront]]  
 - [ ] VPC  
 - [ ] Securit Group  
 - [ ] Route Table  
-- [ ] NatGateway  
+- [x] [[Gateways NAT|NatGateway]] 
 - [ ] ALB  
 - [ ] NLB  
-- [ ] Cloudwatch  
+- [x] [[AWS CloudWatch|Cloudwatch]]  
 - [ ] AWS Backup  
 - [ ] Cognito  
-- [ ] Lambda  
+- [ ] [[AWS Lambda|Lambda]]  
 - [ ] ElasticCache  
 - [ ] Athena / Glue  
 - [ ] Secrets Manager  
@@ -74,7 +74,7 @@ Pedi para o Raphael alguns tópicos de estudo para conhecimento.
 - [ ] Kinesis  
 - [ ] Directory Services  
 - [ ] SSO / IAM  
-- [ ] Router 53  
+- [x] [[Amazon Route 53|Router 53 ]] 
 - [ ] ECR  
 - [ ] Auto Scaling Group  
 - [ ] EBS  
