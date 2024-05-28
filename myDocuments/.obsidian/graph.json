@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 16711854
       }
+    },
+    {
+      "query": "path:Faculdade  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": false,
@@ -42,10 +49,10 @@
   "nodeSizeMultiplier": 1.00155925155925,
   "lineSizeMultiplier": 1.47016632016632,
   "collapse-forces": false,
-  "centerStrength": 0.495841995841996,
+  "centerStrength": 0.359375,
   "repelStrength": 10.5821205821206,
   "linkStrength": 0.54989604989605,
   "linkDistance": 259,
-  "scale": 0.2726859917360213,
-  "close": true
+  "scale": 0.39841964747288444,
+  "close": false
 }

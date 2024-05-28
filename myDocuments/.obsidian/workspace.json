@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/AWS Lambda.md",
+                "file": "Faculdade/6º Periodo/6º Período.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6aaae0a3359053a2",
+            "id": "73175e282eb652a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/05-MAIO/2024-05-27.md",
+                "file": "Faculdade/6º Periodo/Fundamentos de Redes de Computadores/1. Princípios da comunicação digital.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/05-MAIO/2024-05-27.md",
+                "file": "Faculdade/6º Periodo/Fundamentos de Redes de Computadores/1. Princípios da comunicação digital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/05-MAIO/2024-05-27.md",
+                "file": "Faculdade/6º Periodo/Fundamentos de Redes de Computadores/1. Princípios da comunicação digital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/05-MAIO/2024-05-27.md"
+                "file": "Faculdade/6º Periodo/Fundamentos de Redes de Computadores/1. Princípios da comunicação digital.md"
               }
             }
           }
@@ -152,19 +152,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6aaae0a3359053a2",
+  "active": "73175e282eb652a7",
   "lastOpenFiles": [
-    "Daily/05-MAIO/2024-05-24.md",
+    "Faculdade/6º Periodo/Fundamentos de Redes de Computadores/Fundamentos de Redes de Computadores.md",
+    "Faculdade/6º Periodo/Fundamentos de Redes de Computadores/1. Princípios da comunicação digital.md",
+    "Faculdade/6º Periodo/Fundamentos de Redes de Computadores/Unidade 1",
+    "Faculdade/6º Periodo/6º Período.md",
+    "Faculdade/6º Periodo/Fundamentos de Redes de Computadores",
+    "Faculdade/7º Periodo/7º Período.md",
+    "Faculdade/6º Periodo/Antropologia e cultura brasileira/Antropologia e cultura brasileira.md",
+    "Faculdade/6º Periodo",
+    "Faculdade/7º Periodo/Pesquisa Ordenação e Técnicas de Armazenamento",
+    "Faculdade/7º Periodo",
+    "Faculdade/6º Periodo/Antropologia e cultura brasileira/Unidade 1/1.2 Antropologia, cultura e diversidade.md",
+    "Faculdade/6º Periodo/Antropologia e cultura brasileira/Unidade 1/1.1 Antropologia como campo de estudo.md",
+    "Faculdade/6º Periodo/Antropologia e cultura brasileira/Unidade 1",
+    "Faculdade/6º Periodo/Antropologia e cultura brasileira",
+    "Faculdade",
     "Daily/05-MAIO/2024-05-27.md",
+    "Daily/05-MAIO/2024-05-24.md",
     "AWS/AWS Lambda.md",
     "Tópicos de Estudo.md",
     "AWS/Amazon CloudFront.md",
@@ -182,27 +197,12 @@
     "AWS/Amazon S3.md",
     "Daily/05-MAIO/2024-05-23.md",
     "Daily/05-MAIO/2024-05-22.md",
-    "Dicty/QuickNotes/TLD.md",
-    "Dicty/QuickNotes/Proxy reverso.md",
-    "Dicty/QuickNotes/Ferramentas de Gestão de Identidade.md",
-    "Dicty/QuickNotes/Falsificação de solicitação de sites.md",
-    "Dicty/QuickNotes/Computação de borda.md",
-    "AWS/Amazon ECR.md",
-    "AWS/Elastic Load Balancing.md",
     "Dicty/QuickNotes",
     "IMGS/DNS/dnsExample.png",
     "IMGS/DNS",
     "Pasted image 20240522172905.png",
-    "Conceito CI",
-    "Dicty/FastNotes",
-    "Dicty/FastNotes",
     "Sem título.canvas",
     "IMGS/CICD/Pasted image 20240517160807.png",
-    "IMGS/CICD",
-    "IMGS",
-    "Daily/05-MAIO",
-    "Templates",
-    "Templates",
     "Pasted image 20240516155546.png"
   ]
 }
