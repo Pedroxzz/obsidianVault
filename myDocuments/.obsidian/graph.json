@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:AWS  ",
@@ -43,16 +43,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.00155925155925,
+  "nodeSizeMultiplier": 1.347920997921,
   "lineSizeMultiplier": 1.47016632016632,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.359375,
   "repelStrength": 10.5821205821206,
   "linkStrength": 0.54989604989605,
   "linkDistance": 259,
-  "scale": 0.39841964747288444,
+  "scale": 0.11660891579457373,
   "close": false
 }

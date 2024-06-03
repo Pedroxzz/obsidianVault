@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7d7fc25aebbb901f",
+        "id": "05a27f6f6607276b",
         "type": "tabs",
         "children": [
           {
-            "id": "07af7e6e2ead544d",
+            "id": "f55269ca8ddb763c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade/6º Periodo/6º Período.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73175e282eb652a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade/6º Periodo/Fundamentos de Redes de Computadores/1. Princípios da comunicação digital.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade/6º Periodo/Fundamentos de Redes de Computadores/1. Princípios da comunicação digital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/6º Periodo/Fundamentos de Redes de Computadores/1. Princípios da comunicação digital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,13 +118,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Faculdade/6º Periodo/Fundamentos de Redes de Computadores/1. Princípios da comunicação digital.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "9f0f0dff7dd2e4ab",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -152,56 +139,59 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73175e282eb652a7",
+  "active": "f55269ca8ddb763c",
   "lastOpenFiles": [
-    "Faculdade/6º Periodo/Fundamentos de Redes de Computadores/Fundamentos de Redes de Computadores.md",
-    "Faculdade/6º Periodo/Fundamentos de Redes de Computadores/1. Princípios da comunicação digital.md",
-    "Faculdade/6º Periodo/Fundamentos de Redes de Computadores/Unidade 1",
-    "Faculdade/6º Periodo/6º Período.md",
-    "Faculdade/6º Periodo/Fundamentos de Redes de Computadores",
-    "Faculdade/7º Periodo/7º Período.md",
-    "Faculdade/6º Periodo/Antropologia e cultura brasileira/Antropologia e cultura brasileira.md",
-    "Faculdade/6º Periodo",
-    "Faculdade/7º Periodo/Pesquisa Ordenação e Técnicas de Armazenamento",
-    "Faculdade/7º Periodo",
-    "Faculdade/6º Periodo/Antropologia e cultura brasileira/Unidade 1/1.2 Antropologia, cultura e diversidade.md",
-    "Faculdade/6º Periodo/Antropologia e cultura brasileira/Unidade 1/1.1 Antropologia como campo de estudo.md",
-    "Faculdade/6º Periodo/Antropologia e cultura brasileira/Unidade 1",
-    "Faculdade/6º Periodo/Antropologia e cultura brasileira",
-    "Faculdade",
-    "Daily/05-MAIO/2024-05-27.md",
-    "Daily/05-MAIO/2024-05-24.md",
-    "AWS/AWS Lambda.md",
-    "Tópicos de Estudo.md",
-    "AWS/Amazon CloudFront.md",
-    "AWS/AWS IAM.md",
-    "AWS/Amazon ECS.md",
-    "Dicty/QuickNotes/Injeção de SQL.md",
-    "Dicty/ETL.md",
-    "Dicty/Container.md",
-    "AWS/AWS CloudWatch.md",
-    "AWS/VPC.md",
-    "Dicty/WAF.md",
-    "Dicty/QuickNotes/Cross-site-scripting (XSS).md",
-    "Dicty/QuickNotes/DDoS.md",
-    "Dicty/Firewall.md",
-    "AWS/Amazon S3.md",
-    "Daily/05-MAIO/2024-05-23.md",
-    "Daily/05-MAIO/2024-05-22.md",
-    "Dicty/QuickNotes",
-    "IMGS/DNS/dnsExample.png",
-    "IMGS/DNS",
-    "Pasted image 20240522172905.png",
+    "Faculdade/_FACULDADE_.md",
+    "1º Período.md",
+    "Faculdade/2º Período/2º Periodo.md",
+    "Faculdade/2º Período/Sistemas digitais/Sistemas digitais.md",
+    "Faculdade/2º Período/Quimica Geral e Ciencia dos Materiais/Quimica Geral e Ciencia dos Materiais.md",
+    "Faculdade/2º Período/Laboratorio de matematica/Laboratorio de matematica.md",
+    "Faculdade/2º Período/Gestão das Organizações/Gestão das Organizações.md",
+    "Faculdade/2º Período/Criatividade, Ideação e Res. de Problemas/Criatividade, Ideação e Res. de Problemas.md",
+    "Faculdade/2º Periodo/Gestão das Organizações/Sem título",
+    "Faculdade/2º Período/Calculo Aplicado/Calculo Aplicado.md",
+    "Faculdade/2º Período/Gestão das Organizações",
+    "Faculdade/2º Período/Criatividade, Ideação e Res. de Problemas",
+    "Faculdade/2º Período/Quimica Geral e Ciencia dos Materiais",
+    "Faculdade/2º Período/Laboratorio de matematica",
+    "Faculdade/2º Período/Sistemas digitais",
+    "Faculdade/2º Período/Calculo Aplicado",
+    "Faculdade/1º Período/Estatistica e Probabilidade Aplicada/Aula 10 - Probabilidade Teoria.md",
+    "Faculdade/2º Período",
+    "Faculdade/1º Período/Estatistica e Probabilidade Aplicada/Estatistica e Probabilidade Aplicada.md",
+    "Faculdade/1º Período/Estatistica e Probabilidade Aplicada/Aula - Regras Definições.md",
+    "Faculdade/1º Período/Estatistica e Probabilidade Aplicada/Aula - Contagem.md",
+    "Faculdade/1º Período/Estatistica e Probabilidade Aplicada/Aula 05 - Medidas Posição.md",
+    "Faculdade/1º Período/Estatistica e Probabilidade Aplicada/Aula 04 - Método tabular.md",
+    "Faculdade/1º Período/Estatistica e Probabilidade Aplicada/Aula 03 - Organiza dados.md",
+    "Faculdade/1º Período/Estatistica e Probabilidade Aplicada/Aula 02 - Amostragem.md",
+    "Faculdade/1º Período/Estatistica e Probabilidade Aplicada/Aula 01.md",
+    "Faculdade/1º Período/1º Periodo.md",
+    "Faculdade/4º Periodo/Segurança e Saúde do trabalho/Segurança e Saúde do trabalho.md",
+    "Faculdade/1º Periodo/Sem título 1",
+    "Faculdade/1º Período/Estatistica e Probabilidade Aplicada",
+    "Faculdade/4º Periodo/Álgebra Linear Computacional/Álgebra Linear Computacional.md",
+    "Faculdade/4º Periodo/Álgebra Linear Computacional/4. Espaço vetorial.md",
+    "Faculdade/4º Periodo/Álgebra Linear Computacional/3. Métodos iterativos - Resolução sistemas lineares.md",
+    "Faculdade/4º Periodo/Álgebra Linear Computacional/1. Trabalhando com Vetores.md",
+    "Faculdade/4º Periodo/Álgebra Linear Computacional/2. Matrizes.md",
+    "Faculdade/4º Periodo/4º Período.md",
+    "IMGS/Faculdade/Álgebra linear/Pasted image 20240601030628.png",
+    "IMGS/Faculdade/Álgebra linear/Pasted image 20240601031704.png",
+    "IMGS/Faculdade/Álgebra linear/Pasted image 20240601030358.png",
     "Sem título.canvas",
+    "IMGS/DNS/dnsExample.png",
+    "Pasted image 20240522172905.png",
     "IMGS/CICD/Pasted image 20240517160807.png",
     "Pasted image 20240516155546.png"
   ]
