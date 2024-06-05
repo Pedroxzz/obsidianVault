@@ -18,21 +18,21 @@
       "query": "path:Daily  ",
       "color": {
         "a": 1,
-        "rgb": 3912307
+        "rgb": 5545228
       }
     },
     {
       "query": "tag:#dicty  ",
       "color": {
         "a": 1,
-        "rgb": 3941257
+        "rgb": 3560847
       }
     },
     {
       "query": "tag:#quickNotes  ",
       "color": {
         "a": 1,
-        "rgb": 16711854
+        "rgb": 16124319
       }
     },
     {
@@ -53,6 +53,6 @@
   "repelStrength": 10.5821205821206,
   "linkStrength": 0.54989604989605,
   "linkDistance": 259,
-  "scale": 0.11660891579457373,
+  "scale": 0.3213363860503608,
   "close": false
 }
