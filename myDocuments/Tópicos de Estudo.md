@@ -75,7 +75,7 @@ Pedi para o Raphael alguns tópicos de estudo para conhecimento.
 - [ ] Directory Services  
 - [ ] SSO / IAM  
 - [x] [[Amazon Route 53|Router 53 ]] 
-- [ ] ECR  
+- [x] [[Amazon ECR |ECR]]  
 - [ ] Auto Scaling Group  
 - [ ] EBS  
 - [ ] EFS  
