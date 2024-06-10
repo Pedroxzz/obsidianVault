@@ -28,7 +28,7 @@ Pedi para o Raphael alguns tópicos de estudo para conhecimento.
 - [ ] Bancos Não Relacionais  
 - [ ] Mongo DB  
 - [ ] Document DB  
-- [ ] Dynamo DB  
+- [x] [[DynamoDB]]  
 - [ ] Serviços Web  
 - [ ] Apache  
 - [ ] NGINX  
@@ -49,12 +49,12 @@ Pedi para o Raphael alguns tópicos de estudo para conhecimento.
 - [ ] Ansible  
 - [ ] Python  
 - [ ] Cloudformation  
-- [ ] Serverless  
+- [x] [[Serverless]]  
 - [ ] Terragrunt  
-- [ ] AWS  
+- [x] [[_AWSRECURSOS_ | AWS]]  
 - [ ] EKS  
 - [ ] ECS Fargate  
-- [ ] EC2  
+- [x] [[EC2]]  
 - [x] [[Amazon S3|S3]]
 - [x] [[Amazon CloudFront]]  
 - [ ] VPC  
@@ -66,7 +66,7 @@ Pedi para o Raphael alguns tópicos de estudo para conhecimento.
 - [x] [[AWS CloudWatch|Cloudwatch]]  
 - [ ] AWS Backup  
 - [ ] Cognito  
-- [ ] [[AWS Lambda|Lambda]]  
+- [x] [[AWS Lambda|Lambda]]  
 - [ ] ElasticCache  
 - [ ] Athena / Glue  
 - [ ] Secrets Manager  
@@ -75,7 +75,7 @@ Pedi para o Raphael alguns tópicos de estudo para conhecimento.
 - [ ] Directory Services  
 - [ ] SSO / IAM  
 - [x] [[Amazon Route 53|Router 53 ]] 
-- [ ] ECR  
+- [x] [[Amazon ECR |ECR]]  
 - [ ] Auto Scaling Group  
 - [ ] EBS  
 - [ ] EFS  

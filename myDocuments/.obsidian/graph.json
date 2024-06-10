@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:AWS  ",
@@ -18,21 +18,21 @@
       "query": "path:Daily  ",
       "color": {
         "a": 1,
-        "rgb": 3912307
+        "rgb": 5545228
       }
     },
     {
       "query": "tag:#dicty  ",
       "color": {
         "a": 1,
-        "rgb": 3941257
+        "rgb": 3560847
       }
     },
     {
       "query": "tag:#quickNotes  ",
       "color": {
         "a": 1,
-        "rgb": 16711854
+        "rgb": 16124319
       }
     },
     {
@@ -43,16 +43,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.00155925155925,
+  "nodeSizeMultiplier": 1.347920997921,
   "lineSizeMultiplier": 1.47016632016632,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.359375,
   "repelStrength": 10.5821205821206,
   "linkStrength": 0.54989604989605,
   "linkDistance": 259,
-  "scale": 0.39841964747288444,
+  "scale": 0.22920135941749517,
   "close": false
 }
