@@ -53,7 +53,7 @@ Pedi para o Raphael alguns tópicos de estudo para conhecimento.
 - [ ] Terragrunt  
 - [x] [[_AWSRECURSOS_ | AWS]]  
 - [ ] EKS  
-- [ ] ECS Fargate  
+- [x] [[AWS Fargate| ECS Fargate]]
 - [x] [[EC2]]  
 - [x] [[Amazon S3|S3]]
 - [x] [[Amazon CloudFront]]  
