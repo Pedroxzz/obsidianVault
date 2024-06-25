@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "05a27f6f6607276b",
+        "id": "835649d584c9770e",
         "type": "tabs",
         "children": [
           {
-            "id": "f6d1a1cdbf594e8a",
+            "id": "0ba30a4f811adaca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "mondrian.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mondrian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mondrian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "mondrian.md"
+              }
             }
           },
           {
@@ -148,51 +156,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f6d1a1cdbf594e8a",
+  "active": "0ba30a4f811adaca",
   "lastOpenFiles": [
+    "Daily/06-JUNHO/2024-06-25.md",
+    "Daily/06-JUNHO/2024-06-14.md",
+    "Daily/06-JUNHO/2024-06-24.md",
+    "Daily/06-JUNHO/2024-06-21.md",
+    "Daily/06-JUNHO/2024-06-20.md",
+    "Daily/06-JUNHO/2024-06-19.md",
+    "Daily/06-JUNHO/2024-06-18.md",
+    "Daily/06-JUNHO/2024-06-17.md",
+    "Daily/06-JUNHO/2024-06-13.md",
+    "mondrian.md",
+    "hcms.png",
+    "JF.png",
+    "Pasted image 20240625080425.png",
+    "Pasted image 20240625080137.png",
+    "Daily/06-JUNHO/2024-06-05.md",
+    "Estudos/AWS Training/Cloud Essentials Knowledge/Job Roles in the Cloud.md",
+    "Dicty/GitFlow.md",
+    "Estudos/Faculdade/1º Período/Estatistica e Probabilidade Aplicada/Aula 01.md",
+    "Estudos/Faculdade/1º Período/Estatistica e Probabilidade Aplicada/Aula - Contagem.md",
+    "Estudos/AWS Training/Cloud Essentials Knowledge",
+    "Estudos/AWS Training/Cloud Essentials - Knowldge",
+    "Estudos/AWS Training/Sem título.md",
+    "Estudos/AWS Training",
+    "Estudos/Sem título.md",
+    "Dicty/DNS.md",
     "Tópicos de Estudo.md",
-    "AWS/AWS Security Hub.md",
-    "AWS/Amazon ECS.md",
-    "AWS/EC2.md",
-    "AWS/DynamoDB.md",
-    "AWS/AWS Lambda.md",
-    "AWS/Amazon CloudFront.md",
-    "AWS/AWS CloudWatch.md",
-    "AWS/Amazon S3.md",
-    "AWS/Amazon Route 53.md",
-    "AWS/Amazon ECR.md",
+    "Pipelines/dev-mondrian.md",
+    "prd-sites.png",
+    "AWS/AWS Fargate.md",
     "AWS/AWS IAM.md",
-    "AWS/RDS.md",
-    "AWS/Elastic Load Balancing.md",
+    "AWS/EC2.md",
+    "AWS/Amazon ECS.md",
+    "AWS/Amazon Bedrock.md",
+    "AWS/Amazon Route 53.md",
+    "Pipelines",
+    "AWS/Amazon Bedrock",
+    "Estudos/Workshops",
+    "Estudos",
     "IMGS/AWS/Security Hub.png",
     "IMGS/AWS",
-    "AWS/VPC.md",
-    "AWS/_AWSRECURSOS_.md",
-    "Daily/06-JUNHO/2024-06-07.md",
-    "Daily/06-JUNHO/2024-06-06.md",
     "Terraform",
-    "Daily/06-JUNHO/2024-06-05.md",
-    "Daily/_DAILY_.md",
-    "AWS/S3/S3 Express One Zone.md",
-    "AWS/S3/S3 Intelligent-Tiering.md",
-    "AWS/S3/S3 Standard-IA.md",
-    "Daily/06-JUNHO/2024-06-04.md",
-    "Daily/06-JUNHO/2024-06-03.md",
     "AWS/S3",
-    "Faculdade/2º Periodo/Gestão das Organizações/Sem título",
-    "Faculdade/2º Período/Gestão das Organizações",
-    "Faculdade/2º Período/Criatividade, Ideação e Res. de Problemas",
-    "Faculdade/2º Período/Quimica Geral e Ciencia dos Materiais",
-    "Faculdade/2º Período/Laboratorio de matematica",
-    "Faculdade/2º Período/Sistemas digitais",
-    "Faculdade/2º Período/Calculo Aplicado",
     "IMGS/Faculdade/Álgebra linear/Pasted image 20240601030628.png",
     "IMGS/Faculdade/Álgebra linear/Pasted image 20240601031704.png",
     "IMGS/Faculdade/Álgebra linear/Pasted image 20240601030358.png",
     "Sem título.canvas",
-    "IMGS/DNS/dnsExample.png",
-    "Pasted image 20240522172905.png",
-    "IMGS/CICD/Pasted image 20240517160807.png",
-    "Pasted image 20240516155546.png"
+    "IMGS/DNS/dnsExample.png"
   ]
 }
