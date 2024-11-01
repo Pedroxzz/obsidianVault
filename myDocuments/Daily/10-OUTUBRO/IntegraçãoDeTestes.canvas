@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"fc1e145e50b49338","type":"text","text":"          Jenkins","x":-460,"y":-140,"width":250,"height":60},
+		{"id":"27aaf6bd8096ab84","type":"text","text":"Artefato único / Própria pipeline","x":-120,"y":-140,"width":250,"height":60,"color":"1"},
+		{"id":"727e5f6d58e66846","type":"text","text":"Acesso","x":280,"y":-80,"width":250,"height":60},
+		{"id":"8bbeea1e09d5b8fe","type":"text","text":"Próximo Build","x":280,"y":20,"width":250,"height":60},
+		{"id":"22aec0b9421e89b5","type":"text","text":"Versionamento","x":280,"y":140,"width":250,"height":60},
+		{"id":"af0a6e227a1daca8","type":"text","text":"Modificações","x":279,"y":715,"width":250,"height":60},
+		{"id":"312652257a59bd14","type":"text","text":"Barato","x":280,"y":600,"width":250,"height":60},
+		{"id":"277b6384e6457ea0","type":"text","text":"US : $0,12","x":640,"y":600,"width":250,"height":60,"color":"4"},
+		{"id":"e91e1dc83e23917c","type":"text","text":"Versionamento ","x":640,"y":715,"width":250,"height":60},
+		{"id":"3ca07f23563f9d39","type":"text","text":"Lifelong cycle","x":640,"y":835,"width":250,"height":60},
+		{"id":"9d19e73c3d61551e","type":"text","text":"Bucket/S3","x":-460,"y":600,"width":250,"height":60},
+		{"id":"7d6a701f075e86ca","type":"text","text":"Nuvem","x":-120,"y":600,"width":250,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"2458f97652a16076","fromNode":"fc1e145e50b49338","fromSide":"right","toNode":"27aaf6bd8096ab84","toSide":"left"},
+		{"id":"d829bbe54f5ccf76","fromNode":"27aaf6bd8096ab84","fromSide":"right","toNode":"8bbeea1e09d5b8fe","toSide":"left"},
+		{"id":"e8e184f94b05f2c8","fromNode":"9d19e73c3d61551e","fromSide":"right","toNode":"7d6a701f075e86ca","toSide":"left"},
+		{"id":"86b5ad724195b082","fromNode":"27aaf6bd8096ab84","fromSide":"right","toNode":"22aec0b9421e89b5","toSide":"left"},
+		{"id":"2e2c60fe727cdb85","fromNode":"8bbeea1e09d5b8fe","fromSide":"bottom","toNode":"22aec0b9421e89b5","toSide":"top"},
+		{"id":"cf4f3341fc75e01d","fromNode":"7d6a701f075e86ca","fromSide":"right","toNode":"312652257a59bd14","toSide":"left"},
+		{"id":"7825c5584c9d7196","fromNode":"7d6a701f075e86ca","fromSide":"right","toNode":"af0a6e227a1daca8","toSide":"left"},
+		{"id":"7fc83a0fcfe5b350","fromNode":"312652257a59bd14","fromSide":"right","toNode":"277b6384e6457ea0","toSide":"left"},
+		{"id":"bea826d285873fe7","fromNode":"af0a6e227a1daca8","fromSide":"right","toNode":"e91e1dc83e23917c","toSide":"left"},
+		{"id":"a027edcdf60dd667","fromNode":"af0a6e227a1daca8","fromSide":"right","toNode":"3ca07f23563f9d39","toSide":"left"},
+		{"id":"f2a7c1640d008bba","fromNode":"27aaf6bd8096ab84","fromSide":"right","toNode":"727e5f6d58e66846","toSide":"left"}
+	]
+}

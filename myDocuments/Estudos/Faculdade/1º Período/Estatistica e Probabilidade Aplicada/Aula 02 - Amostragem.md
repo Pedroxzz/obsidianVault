@@ -1,0 +1,3 @@
+É o mais utilizado processo de amostragem. Prático e eficaz confere precisão ao processo de amostragem. Normalmente utiliza-se uma tabela de números aleatórios e nomeiam-se os indivíduos, sorteando-se um por um até completar a amostra calculada.
+Exemplo
+Queremos escolher 10 alunos de 90 alunos de uma sala. Escrevemos números de 1 a 90 em um papel e sorteamos 10 números. Seria o mesmo princípio do “bingo”: sortear 10 número a partir de um globo com bolinhas numeradas de 1 a 90.
