@@ -5,18 +5,61 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#dictionary  ",
+      "color": {
+        "a": 1,
+        "rgb": 856551
+      }
+    },
+    {
+      "query": "tag:#quicknotes  ",
+      "color": {
+        "a": 1,
+        "rgb": 3316147
+      }
+    },
+    {
+      "query": "path:\"5 - Notes/AWS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16750848
+      }
+    },
+    {
+      "query": "path:\"6 - Daily\" ",
+      "color": {
+        "a": 1,
+        "rgb": 12517631
+      }
+    },
+    {
+      "query": "path:\"5 - Notes/Study/Faculdade\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16715535
+      }
+    },
+    {
+      "query": "tag:#aws  ",
+      "color": {
+        "a": 1,
+        "rgb": 16750848
+      }
+    }
+  ],
   "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": -1.2,
-  "nodeSizeMultiplier": 1.02193347193347,
+  "showArrow": true,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 1.0770962962963,
   "lineSizeMultiplier": 0.960810810810811,
-  "collapse-forces": true,
-  "centerStrength": 0.491683991683992,
-  "repelStrength": 14.1580041580042,
-  "linkStrength": 1,
-  "linkDistance": 208,
-  "scale": 0.1634837056722081,
-  "close": false
+  "collapse-forces": false,
+  "centerStrength": 0.445862708719852,
+  "repelStrength": 12.9386666666667,
+  "linkStrength": 0.863111111111111,
+  "linkDistance": 200,
+  "scale": 0.3604411951526717,
+  "close": true
 }

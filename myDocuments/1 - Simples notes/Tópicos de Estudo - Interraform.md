@@ -1,0 +1,83 @@
+
+Pedi para o Raphael alguns tópicos de estudo para conhecimento.
+
+- [x] [CI/CD](CI.CD.md)  
+- [x] Conceito CI/CD  
+- [ ] [[Jenkins]]  
+- [ ] Codepipeline / CodeBuild  
+- [ ] Gitlab CI  
+- [x] [[GitFlow]]  
+- [ ] Observabilidade  
+- [ ] Conceitos de Observabilidade  
+- [ ] Grafana  
+- [ ] Dynatrace  
+- [ ] Kibana  
+- [x] [[AWS CloudWatch]]  
+- [ ] Sistemas Operacionais  
+- [ ] Conceito de Sistemas Operacionais  
+- [ ] Linux  
+- [x] [[Ferramentas de Gestão de Identidade  ]]
+- [x] [[AWS IAM]]
+- [ ] Active Directory  
+- [ ] Bancos Relacionais  
+- [ ] RDS  
+- [ ] Aurora  
+- [ ] Maria DB  
+- [ ] My SQL  
+- [ ] Oracle  
+- [ ] Bancos Não Relacionais  
+- [ ] Mongo DB  
+- [ ] Document DB  
+- [x] [[DynamoDB]]  
+- [ ] Serviços Web  
+- [ ] Apache  
+- [ ] NGINX  
+- [ ] Segurança  
+- [ ] Conceito de Segurança  
+- [ ] DAST / SAST  
+- [x] [[WAF]]  
+- [x] [[Firewall]]  
+- [ ] SonarQube  
+- [ ] Owasp zap  
+- [ ] AWS Guardduty  
+- [x] [[CDN]]  
+- [x] Conceitos de CDN  
+- [x] [[Amazon CloudFront|CloudFront]]  
+- [ ] Verizon  
+- [ ] Automação  
+- [ ] Terraform  
+- [ ] Ansible  
+- [ ] Python  
+- [ ] Cloudformation  
+- [x] [[Serverless]]  
+- [ ] Terragrunt  
+- [x] [[AWS]]  
+- [ ] EKS  
+- [x] [[AWS Fargate| ECS Fargate]]
+- [x] [[EC2]]  
+- [x] [[Amazon S3|S3]]
+- [x] [[Amazon CloudFront]]  
+- [ ] VPC  
+- [ ] Securit Group  
+- [ ] Route Table  
+- [x] [[Gateways NAT|NatGateway]] 
+- [ ] ALB  
+- [ ] NLB  
+- [x] [[AWS CloudWatch|Cloudwatch]]  
+- [ ] AWS Backup  
+- [ ] Cognito  
+- [x] [[AWS Lambda|Lambda]]  
+- [ ] ElasticCache  
+- [ ] Athena / Glue  
+- [ ] Secrets Manager  
+- [ ] SSMParameterStore  
+- [ ] Kinesis  
+- [ ] Directory Services  
+- [ ] SSO / IAM  
+- [x] [[Amazon Route 53|Router 53 ]] 
+- [x] [[Amazon ECR |ECR]]  
+- [ ] Auto Scaling Group  
+- [ ] EBS  
+- [ ] EFS  
+- [ ] Certificate Manager ACM  
+- [ ] AWS Landing Zone

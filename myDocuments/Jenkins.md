@@ -1,0 +1,4 @@
+---
+Index: "[[Dictionary]]"
+tags:
+---

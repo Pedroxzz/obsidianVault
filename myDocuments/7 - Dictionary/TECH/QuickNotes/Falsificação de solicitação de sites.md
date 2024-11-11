@@ -1,0 +1,5 @@
+---
+tags:
+  - quicknotes
+Index: "[[Dictionary]]"
+---

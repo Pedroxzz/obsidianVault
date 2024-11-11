@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "835649d584c9770e",
+        "id": "b2b8bf1c7c9dfcdb",
         "type": "tabs",
         "children": [
           {
-            "id": "c42864cec23f524a",
+            "id": "4f09290751f9d2db",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,35 +20,21 @@
             }
           },
           {
-            "id": "e030f99ef1703b34",
+            "id": "db0533233454a49a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Partner - Sales Accreditation (Business)/Conceitos de nuvem e AWS (Portuguese - Brazil).md",
+                "file": "5 - Notes/Study/Analise de Sinais e Sistemas/Sem título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conceitos de nuvem e AWS (Portuguese - Brazil)"
-            }
-          },
-          {
-            "id": "d0661d058a1c2c18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Partner - Sales Accreditation (Business)/Conceitos de nuvem e AWS (Portuguese - Brazil).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conceitos de nuvem e AWS (Portuguese - Brazil)"
+              "title": "Sem título"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,14 +83,14 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 226.5110321044922
   },
   "right": {
     "id": "9d188c02af334e54",
@@ -115,12 +101,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "54e6b9b38bf774b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
             "id": "bd79437e5319f98b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Partner - Sales Accreditation (Business)/Conceitos de nuvem e AWS (Portuguese - Brazil).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Conceitos de nuvem e AWS (Portuguese - Brazil)"
+              "title": "Backlinks"
             }
           },
           {
@@ -139,25 +137,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Partner - Sales Accreditation (Business)/Conceitos de nuvem e AWS (Portuguese - Brazil).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Conceitos de nuvem e AWS (Portuguese - Brazil)"
-            }
-          },
-          {
-            "id": "54e6b9b38bf774b3",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Links de saída"
             }
           },
           {
@@ -165,18 +149,18 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AWS Partner - Sales Accreditation (Business)/Conceitos de nuvem e AWS (Portuguese - Brazil).md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Sumário de Conceitos de nuvem e AWS (Portuguese - Brazil)"
+              "title": "Sumário"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 236.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,59 +170,59 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd79437e5319f98b",
+  "active": "db0533233454a49a",
   "lastOpenFiles": [
-    "AWS Partner - Sales Accreditation (Business)/Conceitos de nuvem e AWS (Portuguese - Brazil).md",
-    "Daily/2024-11-01.md",
-    "AWS Partner - Sales Accreditation (Business)",
-    "Estudos/AWS",
-    "AWS/Amazon S3.md",
-    "AWS/Amazon ECR.md",
-    "AWS/Amazon Bedrock.md",
-    "AWS/_AWSRECURSOS_.md",
-    "Dicty/QuickNotes/TLD.md",
-    "Dicty/QuickNotes/Serverless.md",
-    "Dicty/QuickNotes/Proxy reverso.md",
-    "Dicty/QuickNotes/On-Premise.md",
-    "Dicty/QuickNotes/Injeção de SQL.md",
-    "Dicty/QuickNotes/Ferramentas de Gestão de Identidade.md",
-    "Dicty/QuickNotes/Falsificação de solicitação de sites.md",
-    "Dicty/QuickNotes/DDoS.md",
-    "Dicty/QuickNotes/Data lakes.md",
-    "Dicty/QuickNotes/Cross-site-scripting (XSS).md",
-    "Dicty/QuickNotes/Computação de borda.md",
-    "Dicty/QuickNotes/Cluster.md",
-    "Dicty/_DICTY_.md",
-    "Dicty/CDN.md",
-    "Dicty/CI.CD.md",
-    "Dicty/Container.md",
-    "Dicty/DNS.md",
-    "Dicty/Endpoint.md",
-    "Dicty/ETL.md",
-    "Dicty/Firewall.md",
-    "Daily/11-NOVEMBRO",
-    "Estudos/Faculdade/TCC",
-    "Daily/10-OUTUBRO/IntegraçãoDeTestes.canvas",
-    "Daily/10-OUTUBRO",
+    "5 - Notes/Study/Analise de Sinais e Sistemas/Sem título.md",
+    "3 - Indexes/Tags/Matemática.md",
+    "5 - Notes/Study/Analise de Sinais e Sistemas",
+    "3 - Indexes/Análise de Sinais e Sistemas.md",
+    "6 - Daily/2024/11-NOVEMBRO/2024-11-11.md",
+    "6 - Daily/2024/11-NOVEMBRO/2024-11-07.md",
+    "1 - Simples notes/AWS Partner Certification Readiness - Session 1.md",
+    "6 - Daily/2024/11-NOVEMBRO/2024-11-06.md",
+    "7 - Dictionary/TECH/QuickNotes/Hipervisor.md",
+    "7 - Dictionary/TECH/QuickNotes/Ferramentas de Gestão de Identidade.md",
+    "7 - Dictionary/TECH/QuickNotes/AWS Regions.md",
+    "Jenkins.md",
+    "7 - Dictionary/TECH/QuickNotes/Nuvem.md",
+    "7 - Dictionary/TECH/IaaS.md",
+    "5 - Notes/AWS/Amazon CloudFront.md",
+    "7 - Dictionary/TECH/Endpoint.md",
+    "1 - Simples notes/Tópicos de Estudo - Interraform.md",
+    "Endpoints.md",
+    "endpoints.md",
+    "7 - Dictionary/TECH/QuickNotes/On-premises.md",
+    "7 - Dictionary/TECH/CDN.md",
+    "3 - Indexes/Tags/AWS.md",
+    "7 - Dictionary/TECH/Container.md",
+    "3 - Indexes/Tags/Dictionary.md",
+    "7 - Dictionary/TECH/GitFlow.md",
+    "7 - Dictionary/TECH/SaaS.md",
+    "7 - Dictionary/TECH/PaaS.md",
+    "2 - Source material/Images/Faculdade/Álgebra linear/Pasted image 20240601031704.png",
+    "2 - Source material/Images/Faculdade/Álgebra linear/Pasted image 20240601030628.png",
+    "2 - Source material/Images/Faculdade/Álgebra linear/Pasted image 20240601030358.png",
+    "3 - Indexes/Certifications",
+    "8 - Medias",
+    "5 - Notes/Study/Faculdade/8º Periodo/Processamento digital de Sinais",
+    "5 - Notes/Study/Faculdade/8º Periodo/Processamento digital de Imagens",
+    "5 - Notes/Study/Faculdade/8º Periodo/Pré-Projeto final de curso em Engenharia",
+    "5 - Notes/Study/Faculdade/8º Periodo/Banco de Dados",
+    "5 - Notes/Study/Faculdade/8º Periodo",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "7 - Dictionary/HIST",
+    "7 - Dictionary/TECH",
+    "6 - Daily/2024/10-OUTUBRO/IntegraçãoDeTestes.canvas",
     "JF.png",
     "hcms.png",
     "Pasted image 20240625080425.png",
     "Pasted image 20240625080137.png",
-    "Estudos/AWS Training/Cloud Essentials Knowledge",
-    "Estudos/AWS Training/Cloud Essentials - Knowldge",
-    "Estudos/AWS Training",
     "prd-sites.png",
-    "Pipelines",
-    "AWS/Amazon Bedrock",
-    "IMGS/AWS/Security Hub.png",
-    "IMGS/Faculdade/Álgebra linear/Pasted image 20240601030628.png",
-    "IMGS/Faculdade/Álgebra linear/Pasted image 20240601031704.png",
-    "IMGS/Faculdade/Álgebra linear/Pasted image 20240601030358.png",
-    "Sem título.canvas",
-    "IMGS/DNS/dnsExample.png"
+    "2 - Source material/Images/AWS/Security Hub.png",
+    "2 - Source material/Images/DNS/dnsExample.png"
   ]
 }

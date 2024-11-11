@@ -1,0 +1,4 @@
+---
+Index: "[[Laboratorio de matematica]]"
+---
+---
