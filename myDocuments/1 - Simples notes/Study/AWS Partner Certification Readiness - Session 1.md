@@ -66,7 +66,36 @@ Elimina a necessidade de as organizações gerenciarem a infraestrutura subjacen
 Fornece um produto completo que é executado e gerenciado pelo provedor de serviços. Na maioria dos casos, ao se referir a software como serviço, está se referindo a aplicações voltadas para o usuário final.
 
 # Proposta de valor da Nuvem
+## Principais vantagens da nuvem em relação ao local
 
+1- Opex - Vpex
+2- Economias em escala
+3- Elasticidade
+4- Agilidade e velocidade
+5- Menos gasto em data center 
+6- Presença global
+
+### Despesa de capital comercial por despesa variável 
+- Despesa de capital
+	- Dinheiro que uma organização gasta para comprar, manter ou melhorar ativos fixos
+- Despesa variável / operacional 
+	- Despesas contínuas necessárias para administrar o negocio
+### Economia de escala
+#### **Custos variáveis mais baixos**
+O uso de centenas de milhares de clientes é agregado na nuvem. A AWS obtém grandes economias de escala ao ser agregadora desse uso.
+
+- **Efeito Flywheel** - Mias usuários na nuvem, maior volume de compras de componentes, menores preços por unidade
+- **Economia de repasse** - Nossos baixos custos variáveis se traduzem em economias para nossos clientes, maiores do que poderiam ser obtidas por você mesmo
+
+#### **Capacidade de infraestrutura**
+O local exige decisões de capacidade antes de realmente implantar um aplicativo
+
+- Sob provisão - o crescimento de seus negócios ou a experiencia do cliente são limitados por restrições de capacidade
+- Provisão excessiva - Seus recursos caros ficam ociosos
+
+#### Capacidade escalonada
+
+A infraestrutura baseada em nuvem permite que você aumente ou diminua seus serviços com apenas alguns minutos de antecedência. Isso permite que você acesse a capacidade necessária ou mínima. Provisione dinamicamente sua infraestrutura de nuvem para atender às necessidades reais de capacidade.
 # Infraestrutura Global AWS
 ## [[AWS Regions]]
 
@@ -90,7 +119,7 @@ As AZs são conectadas entre si por redes privadas de fibra ótica rápidas, per
 São [[Endpoint|endpoints]] menores usados para hospedar dados em cache.
 
 **Por que são importantes?**  
-Os Pontos de Presença permitem que o Amazon CloudFront entregue dados, vídeos, aplicativos e APIs de forma segura para os clientes globalmente, com baixa latência e altas velocidades de transferência, tudo dentro de um ambiente amigável para desenvolvedores.
+Os Pontos de Presença permitem que o [[Amazon CloudFront]] entregue dados, vídeos, aplicativos e APIs de forma segura para os clientes globalmente, com baixa latência e altas velocidades de transferência, tudo dentro de um ambiente amigável para desenvolvedores.
 
 
 ## [[Amazon CloudFront]]
@@ -106,8 +135,76 @@ Serviço web que acelera a distribuição de conteúdo estático e dinâmico par
 • Transmitir vídeo ao vivo e sob demanda  
 • Distribuir patches e atualizações
 
+# Introdução aos Serviços da AWS
+## Computação
+---
+- Instancias
+	- Amazon EC2
+- Contêineres 
+	- Amazon ECS
+	-  Amazon EKS
+	- Amazon Fargate
+- Serverless
+	- AWS Lambda
+---
+### Amazon EC2
 
-## Container
+==Capacidade computacional segura e redimensionável para suportar praticamente qualquer carga de trabalho==
+
+Um serviço web que fornece capacidade computacional segura e redimensionável na nuvem. Ele foi projetado para facilitar a computação em nuvem em escala web para desenvolvedores
+- Escala 
+	- Aumente ou diminua a capacidade em minutos e forneça 99,99% de disponibilidade para cada região do Amazon EC2
+- Preço
+	- Oferece cinco modelos de prelos para pagar pelas instancias ECC2: sob demanda, planos de economia, host dedicados, instancias spot e instancias reservadas
+
+### AWS Lambda
+
+==Execute código sem gerenciar servidores==
+
+O AWS Lambda é um serviço computacional sem servidor e orientado por eventos que permite executar  código para praticamente qualquer tipo de aplicativo ou serviço de back-end sem provisionar ou gerenciar servidores
+
+Você pode adicionar o Lambda a partir de mais de 200 serviços da AWS e aplicativos de software como serviço (SaaS) e pagar apenas pelo que usar 
+
+### Imagens de máquina da Amazon (AMI)
+
+==Informações criticas necessárias ao iniciar instâncias EC2==
+
+- Contém as informações necessárias para iniciar uma instancia EC2
+
+- Deve ser especificado ao iniciar uma instancia
+
+- Várias instancias podem ser excetuadas a partir de uma única AMI
+
+- Pode incluir o software desejado para ser instalado na instancia do EC2 no momento da inicialização 
+
+### AWS Cloud Formation
+
+### Container
 - Camada de virtualização [[Hipervisor]]
 	- AWS Nitro 
 
+### Amazon Elastic Container Service ECS
+
+### Amazon Elastic Kubernets EKS
+
+### AWS Fargate 
+
+## Armazenamento de dados
+### Amazon Elastic File System EFS
+
+### Amazon FSx
+
+###  Amazon Elastic Block Storage EBS
+
+### Amazon S3
+
+## Classes de armazenamento do S3
+
+## Networking 
+### Amazon VPC 
+
+### Security Group e NACLs
+
+### Amazon Route 53 
+
+## Ofertas de Banco de dados 
