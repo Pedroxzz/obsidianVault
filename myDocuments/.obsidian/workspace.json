@@ -20,29 +20,17 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "d0188e600d8fc5f2",
-=======
-            "id": "49f6ef6c058bcc92",
->>>>>>> b8c680d8a2a501260393aab357d994fcce00d672
+            "id": "1dd5cf300f0e532f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "1 - Simples notes/Study/AWS Partner Certification Readiness - Session 1.md",
-=======
-                "file": "5 - Notes/Study/Processamento digital de sinais/Introdução aos Sinais Contínuos e Discretos.md",
->>>>>>> b8c680d8a2a501260393aab357d994fcce00d672
+                "file": "6 - Daily/2024/11-NOVEMBRO/2024-11-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "AWS Partner Certification Readiness - Session 1"
-=======
-              "title": "Introdução aos Sinais Contínuos e Discretos"
->>>>>>> b8c680d8a2a501260393aab357d994fcce00d672
+              "title": "2024-11-26"
             }
           }
         ],
@@ -77,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"6 - Daily/2024/06-JUNHO/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +86,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,9 +174,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-<<<<<<< HEAD
-  "active": "d0188e600d8fc5f2",
+  "active": "84bb971a536dda4c",
   "lastOpenFiles": [
+    "6 - Daily/2024/11-NOVEMBRO/2024-11-25.md",
+    "6 - Daily/2024/11-NOVEMBRO/2024-11-26.md",
+    "6 - Daily/2024/11-NOVEMBRO/2024-11-19.md",
+    "6 - Daily/2024/11-NOVEMBRO/2024-11-18.md",
+    "6 - Daily/2024/11-NOVEMBRO/2024-11-21.md",
+    "1 - Simples notes/Residencial - Docker.md",
     "1 - Simples notes/Study/AWS Partner Certification Readiness - Session 1.md",
     "Jenkins.md",
     "Backup celular.md",
@@ -196,10 +190,6 @@
     "1 - Simples notes/Study/AWS Partner Certification Readiness - Session 2.md",
     "1 - Simples notes/Study",
     "AWS Partner Certification Readiness - Session 2.md",
-    "1 - Simples notes/Residencial - Docker.md",
-    "6 - Daily/2024/11-NOVEMBRO/2024-11-21.md",
-    "6 - Daily/2024/11-NOVEMBRO/2024-11-19.md",
-    "6 - Daily/2024/11-NOVEMBRO/2024-11-18.md",
     "6 - Daily/2024/11-NOVEMBRO/2024-11-11.md",
     "1 - Simples notes/Tópicos de Estudo - Interraform.md",
     "1 - Simples notes/Reunião - Trombetas e Festas  IV.md",
@@ -212,41 +202,8 @@
     "3 - Indexes/Tags/Matemática.md",
     "5 - Notes/Study/Analise de Sinais e Sistemas",
     "3 - Indexes/Análise de Sinais e Sistemas.md",
-=======
-  "active": "49f6ef6c058bcc92",
-  "lastOpenFiles": [
-    "4 - Templates/Notes.md",
-    "5 - Notes/Study/Processamento digital de sinais/Introdução aos Sinais Contínuos e Discretos.md",
-    "1 - Simples notes/AWS Partner Certification Readiness - Session 1.md",
-    "5 - Notes/Study/Faculdade/6º Periodo/Antropologia e cultura brasileira/Antropologia e cultura brasileira.md",
-    "2 - Source material/Images/Study/Processamento digital de sinais",
-    "2 - Source material/Images/Study",
-    "3 - Indexes/Processamento Digital de Sinais.md",
-    "3 - Indexes/Tags/Matemática.md",
-    "5 - Notes/Study/Processamento digital de sinais",
-    "6 - Daily/2024/11-NOVEMBRO/2024-11-11.md",
-    "6 - Daily/2024/11-NOVEMBRO/2024-11-07.md",
-    "6 - Daily/2024/11-NOVEMBRO/2024-11-06.md",
->>>>>>> b8c680d8a2a501260393aab357d994fcce00d672
     "7 - Dictionary/TECH/QuickNotes/Hipervisor.md",
     "7 - Dictionary/TECH/QuickNotes/Ferramentas de Gestão de Identidade.md",
-    "7 - Dictionary/TECH/QuickNotes/AWS Regions.md",
-    "7 - Dictionary/TECH/QuickNotes/Nuvem.md",
-<<<<<<< HEAD
-=======
-    "7 - Dictionary/TECH/IaaS.md",
-    "5 - Notes/AWS/Amazon CloudFront.md",
-    "7 - Dictionary/TECH/Endpoint.md",
-    "1 - Simples notes/Tópicos de Estudo - Interraform.md",
-    "Endpoints.md",
-    "endpoints.md",
-    "7 - Dictionary/TECH/QuickNotes/On-premises.md",
-    "7 - Dictionary/TECH/CDN.md",
-    "3 - Indexes/Tags/AWS.md",
-    "7 - Dictionary/TECH/Container.md",
-    "3 - Indexes/Tags/Dictionary.md",
-    "7 - Dictionary/TECH/GitFlow.md",
->>>>>>> b8c680d8a2a501260393aab357d994fcce00d672
     "2 - Source material/Images/Faculdade/Álgebra linear/Pasted image 20240601031704.png",
     "2 - Source material/Images/Faculdade/Álgebra linear/Pasted image 20240601030628.png",
     "2 - Source material/Images/Faculdade/Álgebra linear/Pasted image 20240601030358.png",
@@ -259,10 +216,7 @@
     "5 - Notes/Study/Faculdade/8º Periodo",
     "Sem título 1.canvas",
     "Sem título.canvas",
-<<<<<<< HEAD
     "7 - Dictionary/HIST",
-=======
->>>>>>> b8c680d8a2a501260393aab357d994fcce00d672
     "6 - Daily/2024/10-OUTUBRO/IntegraçãoDeTestes.canvas",
     "JF.png",
     "hcms.png",
