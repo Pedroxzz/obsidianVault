@@ -5,17 +5,17 @@ Pedi para o Raphael alguns tópicos de estudo para conhecimento.
 - [x] Conceito CI/CD  
 - [ ] [[Jenkins]]  
 - [ ] Codepipeline / CodeBuild  
-- [ ] Gitlab CI  
+- [ ] [[Gitlab CI]]  
 - [x] [[GitFlow]]  
-- [ ] Observabilidade  
+- [ ] [[Observabilidade]]  
 - [ ] Conceitos de Observabilidade  
-- [ ] Grafana  
-- [ ] Dynatrace  
-- [ ] Kibana  
+- [ ] [[Grafana]]  
+- [ ] [[Dynatrace]]  
+- [ ] [[Kibana]]  
 - [x] [[AWS CloudWatch]]  
-- [ ] Sistemas Operacionais  
+- [ ] [[Sistemas Operacionais]]  
 - [ ] Conceito de Sistemas Operacionais  
-- [ ] Linux  
+- [ ] [[Linux]]  
 - [x] [[Ferramentas de Gestão de Identidade  ]]
 - [x] [[AWS IAM]]
 - [ ] Active Directory  
@@ -25,20 +25,20 @@ Pedi para o Raphael alguns tópicos de estudo para conhecimento.
 - [ ] Maria DB  
 - [ ] My SQL  
 - [ ] Oracle  
-- [ ] Bancos Não Relacionais  
-- [ ] Mongo DB  
-- [ ] Document DB  
+- [ ] [[Bancos Não Relacionais ]] 
+- [ ] [[Mongo DB]]  
+- [ ] [[Document DB]]  
 - [x] [[DynamoDB]]  
-- [ ] Serviços Web  
-- [ ] Apache  
-- [ ] NGINX  
-- [ ] Segurança  
+- [ ] [[Serviços Web]]  
+- [ ] [[Apache]]  
+- [ ] [[NGINX]]  
+- [ ] [[Segurança]]  
 - [ ] Conceito de Segurança  
-- [ ] DAST / SAST  
+- [ ] [[DAST / SAST ]] 
 - [x] [[WAF]]  
 - [x] [[Firewall]]  
-- [ ] SonarQube  
-- [ ] Owasp zap  
+- [ ] [[SonarQube]]  
+- [ ] [[Owasp zap]]  
 - [ ] AWS Guardduty  
 - [x] [[CDN]]  
 - [x] Conceitos de CDN  
@@ -48,29 +48,30 @@ Pedi para o Raphael alguns tópicos de estudo para conhecimento.
 - [ ] Terraform  
 - [ ] Ansible  
 - [ ] Python  
-- [ ] Cloudformation  
+- [ ] [[Cloudformation]]  
 - [x] [[Serverless]]  
 - [ ] Terragrunt  
 - [x] [[AWS]]  
-- [ ] EKS  
+- [ ] [[EKS]]  
 - [x] [[AWS Fargate| ECS Fargate]]
 - [x] [[EC2]]  
 - [x] [[Amazon S3|S3]]
 - [x] [[Amazon CloudFront]]  
-- [ ] VPC  
-- [ ] Securit Group  
-- [ ] Route Table  
+- [ ] [[VPC]]  
+- [ ] [[Securit Group]]  
+- [ ] [[Route Table]]  
 - [x] [[Gateways NAT|NatGateway]] 
-- [ ] ALB  
-- [ ] NLB  
+- [ ] [[ALB]]  
+- [ ] [[NLB]]  
 - [x] [[AWS CloudWatch|Cloudwatch]]  
-- [ ] AWS Backup  
-- [ ] Cognito  
+- [ ] [[AWS Backup]]  
+- [ ] [[Cognito]]  
 - [x] [[AWS Lambda|Lambda]]  
-- [ ] ElasticCache  
-- [ ] Athena / Glue  
-- [ ] Secrets Manager  
-- [ ] SSMParameterStore  
+- [ ] [[ElasticCache]]  
+- [ ] [[Athena]] 
+- [ ] [[Glue]]  
+- [ ] [[Secrets Manager]]  
+- [ ] [[SSMParameterStore]]  
 - [ ] Kinesis  
 - [ ] Directory Services  
 - [ ] SSO / IAM  
