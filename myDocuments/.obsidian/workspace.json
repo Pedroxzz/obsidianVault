@@ -18,8 +18,19 @@
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
+          },
+          {
+            "id": "65e1c5910aca7f6f",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -165,11 +176,20 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "4f09290751f9d2db",
+  "active": "65e1c5910aca7f6f",
   "lastOpenFiles": [
+    "8 - Books/Os segredos da Disney para encantar e fidelizar seus clientes - Dan Cockerell.md",
+    "8 - Books/Highlits",
+    "8 - Books/O estilo Disney - Lynn Jackson Bill Capodagli.md",
+    "4 - Templates/Books.md",
+    "8 - Books",
     "Gitlab CI.md",
     "5 - Notes/Import/red-team-notes/ENG_REVERSA/Intro.md",
     "5 - Notes/Import/red-team-notes/ENG_REVERSA/Buffer Overflow.md",
@@ -197,15 +217,9 @@
     "5 - Notes/Import/red-team-notes/WEB/2. Enum/FTP.md",
     "5 - Notes/Import/red-team-notes/WEB/2. Enum/Ferramentas Pré-Fuzzing.md",
     "5 - Notes/Import/red-team-notes/WEB/2. Enum/Enum - Subdominios.md",
-    "5 - Notes/Import/red-team-notes/WEB/2. Enum/Enum - Médio.md",
-    "5 - Notes/Import/red-team-notes/WEB/2. Enum/Enum - Básico.md",
-    "5 - Notes/Import/red-team-notes/WEB/2. Enum/Enum - Avançado.md",
-    "5 - Notes/Import/red-team-notes/WEB/API/Setup para API Pentest.md",
     "5 - Notes/Import/red-team-notes/WEB/WAF",
     "5 - Notes/Import/red-team-notes/WEB/Vulns",
     "5 - Notes/Import/red-team-notes/WEB/Solyd Pentest Básico",
-    "5 - Notes/Import/red-team-notes/WEB/Files",
-    "5 - Notes/Import/red-team-notes/WEB/API",
     "5 - Notes/Import/red-team-notes/REDES/Camadas.png",
     "5 - Notes/Import/red-team-notes/IMG/canvas.png",
     "5 - Notes/Import/red-team-notes/IMG/b3683addecce2f99d7189ac87cf17557.png",

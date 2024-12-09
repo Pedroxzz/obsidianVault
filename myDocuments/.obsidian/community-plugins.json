@@ -4,5 +4,9 @@
   "colored-text",
   "highlightr-plugin",
   "obsidian-latex-suite",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian",
+  "obsidian-book-search-plugin",
+  "obsidian-projects",
+  "obsidian-kindle-plugin"
 ]

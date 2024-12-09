@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "8 - Books",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "coverField": "cover",
+            "fitStyle": "contain",
+            "cardWidth": 150,
+            "includeFields": [
+              "status"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "ff3bf9f6-76b7-4bbf-85f2-565d582eba43",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "07fcc05a-6fca-4fa1-ba4e-57c52e2bf738",
+      "name": "Library"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}
