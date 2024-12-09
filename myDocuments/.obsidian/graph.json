@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#dictionary  ",
@@ -55,11 +55,11 @@
   "textFadeMultiplier": -1.1,
   "nodeSizeMultiplier": 1.0770962962963,
   "lineSizeMultiplier": 0.960810810810811,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.445862708719852,
   "repelStrength": 12.9386666666667,
   "linkStrength": 0.863111111111111,
   "linkDistance": 200,
-  "scale": 0.14287720897918094,
-  "close": true
+  "scale": 0.09213980001787336,
+  "close": false
 }

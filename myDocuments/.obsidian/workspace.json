@@ -18,23 +18,8 @@
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
-          },
-          {
-            "id": "1dd5cf300f0e532f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Daily/2024/11-NOVEMBRO/2024-11-26.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-26"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"6 - Daily/2024/06-JUNHO/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,12 +71,11 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 226.5110321044922
+    "width": 200
   },
   "right": {
     "id": "9d188c02af334e54",
@@ -120,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -154,9 +138,19 @@
               "icon": "lucide-list",
               "title": "Sumário"
             }
+          },
+          {
+            "id": "0b40a3328010a76b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -171,59 +165,64 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "84bb971a536dda4c",
+  "active": "4f09290751f9d2db",
   "lastOpenFiles": [
-    "6 - Daily/2024/11-NOVEMBRO/2024-11-25.md",
-    "6 - Daily/2024/11-NOVEMBRO/2024-11-26.md",
-    "6 - Daily/2024/11-NOVEMBRO/2024-11-19.md",
-    "6 - Daily/2024/11-NOVEMBRO/2024-11-18.md",
-    "6 - Daily/2024/11-NOVEMBRO/2024-11-21.md",
-    "1 - Simples notes/Residencial - Docker.md",
-    "1 - Simples notes/Study/AWS Partner Certification Readiness - Session 1.md",
-    "Jenkins.md",
-    "Backup celular.md",
-    "Sem título.md",
-    "5 - Notes/AWS/Amazon CloudFront.md",
-    "1 - Simples notes/Study/AWS Partner Certification Readiness - Session 2.md",
-    "1 - Simples notes/Study",
-    "AWS Partner Certification Readiness - Session 2.md",
-    "6 - Daily/2024/11-NOVEMBRO/2024-11-11.md",
-    "1 - Simples notes/Tópicos de Estudo - Interraform.md",
-    "1 - Simples notes/Reunião - Trombetas e Festas  IV.md",
-    "1 - Simples notes/Fale conosco - Docker.md",
-    "1 - Simples notes/Continuar.md",
-    "5 - Notes/Study/Analise de Sinais e Sistemas/Sem título.md",
-    "5 - Notes/Study/Faculdade/TCC/Classificações de sintomas atuais.md",
-    "6 - Daily/2024/11-NOVEMBRO/2024-11-06.md",
-    "6 - Daily/2024/11-NOVEMBRO/2024-11-07.md",
-    "3 - Indexes/Tags/Matemática.md",
-    "5 - Notes/Study/Analise de Sinais e Sistemas",
-    "3 - Indexes/Análise de Sinais e Sistemas.md",
-    "7 - Dictionary/TECH/QuickNotes/Hipervisor.md",
-    "7 - Dictionary/TECH/QuickNotes/Ferramentas de Gestão de Identidade.md",
-    "2 - Source material/Images/Faculdade/Álgebra linear/Pasted image 20240601031704.png",
-    "2 - Source material/Images/Faculdade/Álgebra linear/Pasted image 20240601030628.png",
-    "2 - Source material/Images/Faculdade/Álgebra linear/Pasted image 20240601030358.png",
-    "3 - Indexes/Certifications",
-    "8 - Medias",
-    "5 - Notes/Study/Faculdade/8º Periodo/Processamento digital de Sinais",
-    "5 - Notes/Study/Faculdade/8º Periodo/Processamento digital de Imagens",
-    "5 - Notes/Study/Faculdade/8º Periodo/Pré-Projeto final de curso em Engenharia",
-    "5 - Notes/Study/Faculdade/8º Periodo/Banco de Dados",
-    "5 - Notes/Study/Faculdade/8º Periodo",
+    "8 - Books/Luzes de Emergência.md",
+    "8 - Books/A culpa é das estrelas - John Green.md",
+    "8 - Books/Star Wars The Mandalorian - Joe Schreiber.md",
+    "8 - Books/Star Wars The Mandalorian – temporada 2 - Joe Schreiber.md",
+    "8 - Books/E não sobrou nenhum - Agatha Christie.md",
+    "8 - Books/O planeta dos macacos - Pierre Boulle.md",
+    "8 - Books/As Cavernas de Aço - Isaac Asimov.md",
+    "8 - Books/Clube da luta - Chuck Palahniuk.md",
+    "8 - Books/Eleanor Park - Rainbow Rowell.md",
+    "8 - Books/O mago e o Guerreiro.md",
+    "8 - Books/Alice's Adventures in Wonderland - Lewis Carroll.md",
+    "8 - Books/O Pequeno Príncipe - Antoine de Saint-Exupéry.md",
+    "8 - Books/STAR WARS - Um novo amanhecer - John Jackson Miller.md",
+    "8 - Books/Star Wars A origem e a lenda de Obi-Wan Kenobi - Ryder Windham.md",
+    "8 - Books/VIDAS SECAS - Graciliano Ramos.md",
+    "8 - Books/Quincas Borba - Machado de Assis.md",
+    "8 - Books/O Alienista - Machado De Assis.md",
+    "8 - Books/Dom Casmurro - Machado de Assis.md",
+    "8 - Books/Memórias Póstumas de Brás Cubas - Machado de Assis.md",
+    "8 - Books/Cidades de papel - John Green.md",
+    "8 - Books/Laranja mecânica - Anthony Burguess.md",
+    "8 - Books/1984 - George Orwell.md",
+    "1 - Simples notes/CCoE/Residencial - Docker.md",
+    "5 - Notes/Import/red-team-notes/WEB/Solyd Pentest Básico/Ferramentas.md",
+    "8 - Books/As 220 Mortes de Laura Lins.md",
+    "8 - Books/REFUTANDO O DETERMINISMO DE LUTERO - Escriba de Cristo.md",
+    "8 - Books/Highlits",
+    "8 - Books",
+    "5 - Notes/Import/red-team-notes/ENG_REVERSA",
+    "5 - Notes/Import/red-team-notes/ENG_SOCIAL",
+    "5 - Notes/Import/red-team-notes/CTF",
+    "5 - Notes/Import/red-team-notes/CRIPTOGRAFIA/Auth Bypass",
+    "5 - Notes/Import/red-team-notes/CRIPTOGRAFIA",
+    "5 - Notes/Import/red-team-notes/WEB/WAF",
+    "5 - Notes/Import/red-team-notes/WEB/Vulns",
+    "5 - Notes/Import/red-team-notes/WEB/Solyd Pentest Básico",
+    "5 - Notes/Import/red-team-notes/REDES/Camadas.png",
+    "5 - Notes/Import/red-team-notes/IMG/canvas.png",
+    "5 - Notes/Import/red-team-notes/IMG/b3683addecce2f99d7189ac87cf17557.png",
+    "5 - Notes/Import/red-team-notes/IMG/Screenshot_2023-11-20_13_32_10.png",
+    "5 - Notes/Import/red-team-notes/IMG/Screenshot_2023-11-20_13_18_46.png",
+    "5 - Notes/Import/red-team-notes/IMG/Screenshot_2023-11-20_13_13_22.png",
+    "5 - Notes/Import/red-team-notes/IMG/Pasted image 20231225134824.png",
+    "5 - Notes/Import/red-team-notes/IMG/Pasted image 20231222212534.png",
+    "5 - Notes/Import/red-team-notes/IMG/Pasted image 20231222212510.png",
+    "5 - Notes/Import/red-team-notes/IMG/Pasted image 20231221002713.png",
     "Sem título 1.canvas",
     "Sem título.canvas",
-    "7 - Dictionary/HIST",
-    "6 - Daily/2024/10-OUTUBRO/IntegraçãoDeTestes.canvas",
-    "JF.png",
-    "hcms.png",
-    "Pasted image 20240625080425.png",
-    "Pasted image 20240625080137.png",
-    "prd-sites.png",
-    "2 - Source material/Images/AWS/Security Hub.png",
-    "2 - Source material/Images/DNS/dnsExample.png"
+    "6 - Daily/2024/10-OUTUBRO/IntegraçãoDeTestes.canvas"
   ]
 }

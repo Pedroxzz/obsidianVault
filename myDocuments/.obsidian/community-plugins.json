@@ -3,5 +3,10 @@
   "dataview",
   "colored-text",
   "highlightr-plugin",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-git",
+  "templater-obsidian",
+  "obsidian-book-search-plugin",
+  "obsidian-projects",
+  "obsidian-kindle-plugin"
 ]
