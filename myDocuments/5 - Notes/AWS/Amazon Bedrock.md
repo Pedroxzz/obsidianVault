@@ -1,6 +1,7 @@
 ---
-Index: "[[AWS]]"
 My Tags: "[[IA]]"
+tags:
+  - aws
 ---
 ## Modelos 
 - [[Claude]]

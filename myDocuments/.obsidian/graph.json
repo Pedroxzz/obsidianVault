@@ -22,13 +22,6 @@
       }
     },
     {
-      "query": "path:\"5 - Notes/AWS\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16750848
-      }
-    },
-    {
       "query": "path:\"6 - Daily\" ",
       "color": {
         "a": 1,
@@ -60,11 +53,6 @@
   "repelStrength": 12.9386666666667,
   "linkStrength": 0.863111111111111,
   "linkDistance": 200,
-<<<<<<< HEAD
-  "scale": 0.09213980001787336,
+  "scale": 0.09213980001787342,
   "close": false
-=======
-  "scale": 0.06314438899280748,
-  "close": true
->>>>>>> 254161672266f9593fe088a32db33e18f0c6d163
 }

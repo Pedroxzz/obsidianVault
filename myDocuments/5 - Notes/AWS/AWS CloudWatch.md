@@ -1,3 +1,7 @@
+---
+tags:
+  - aws
+---
 
 # Amazon CloudWatch
 O Amazon CloudWatch é um serviço que monitora aplicações, responde às mudanças de desempenho, otimiza o ouso de recursos e fornece insights sobrea integridade operacional. Ao coletar dados de todos os recursos da AWS, o CloudWatch fornece visibilidade sobre o desempenho de todo o sistema e permite que os usuários definam alarmes, reajam automaticamente às mudanças e obtenham uma visão unificada da integridade operacional. 

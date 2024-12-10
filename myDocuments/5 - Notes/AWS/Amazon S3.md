@@ -1,6 +1,6 @@
 ---
-Index: 
-tags: []
+tags:
+  - aws
 ---
 
 ## Como funciona

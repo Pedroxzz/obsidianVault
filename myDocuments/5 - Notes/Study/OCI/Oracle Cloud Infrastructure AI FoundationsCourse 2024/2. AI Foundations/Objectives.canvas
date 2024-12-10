@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e8b98e116e66831e","x":-100,"y":-140,"width":250,"height":60,"type":"text","text":"Explain Articial Intelligence concepts"},
+		{"id":"428a7a7b0070c99b","x":-100,"y":-20,"width":250,"height":60,"type":"text","text":"Describe common AI domains and tasks"},
+		{"id":"472b6c1d2f342819","x":-100,"y":80,"width":320,"height":100,"type":"text","text":"Differentiate between Artificial Intelligence, Machine Learning, and Deep Learning"},
+		{"id":"8c51ee3a6d05acb6","x":-520,"y":10,"width":320,"height":120,"type":"text","text":"# Objectives"}
+	],
+	"edges":[
+		{"id":"c559138fb174fc97","fromNode":"8c51ee3a6d05acb6","fromSide":"right","toNode":"e8b98e116e66831e","toSide":"left"},
+		{"id":"9a1b0b75d4547806","fromNode":"8c51ee3a6d05acb6","fromSide":"right","toNode":"428a7a7b0070c99b","toSide":"left"},
+		{"id":"7c5b6cf154244d18","fromNode":"8c51ee3a6d05acb6","fromSide":"right","toNode":"472b6c1d2f342819","toSide":"left"}
+	]
+}

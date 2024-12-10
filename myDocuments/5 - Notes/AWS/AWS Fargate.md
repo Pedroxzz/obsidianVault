@@ -1,3 +1,7 @@
+---
+tags:
+  - aws
+---
 
 O AWS Fargate é uma tecnologia que pode ser usada com o [[Amazon ECS]] para executar contêineres sem a necessidade de gerenciar servidores ou cluster de instancias do Amazon EC2. Com o AWS Fargate, não é mais necessário provisionar, configurar nem dimensionar os clusters de maquinas virtuais para executar contêineres. Isso elimina a necessidade de escolher tipos de servidores, decidir quando dimensionar clusters ou otimizar o agrupamento de clusters. 
 

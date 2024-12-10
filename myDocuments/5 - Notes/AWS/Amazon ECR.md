@@ -1,3 +1,7 @@
+---
+tags:
+  - aws
+---
 
 
 #  Amazon Elastic Container Registry

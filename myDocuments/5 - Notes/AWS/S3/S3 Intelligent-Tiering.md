@@ -1,3 +1,7 @@
+---
+tags:
+  - aws
+---
 
 **S3 Intelligent-Tiering**: Para dados com padrões de acesso desconhecidos ou imprevisíveis, movendo automaticamente os dados entre duas camadas de acesso (frequente e infrequente) com base nos padrões de acesso.
 

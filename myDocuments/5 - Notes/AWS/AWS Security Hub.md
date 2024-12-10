@@ -1,3 +1,7 @@
+---
+tags:
+  - aws
+---
 
 # Introdução
 Use o AWS Security Hub para automatizar as verificações de práticas recomendadas de segurança, agregar alertas de segurança em um único local e formato e entender sua postura geral de segurança em todas as suas contas da AWS.

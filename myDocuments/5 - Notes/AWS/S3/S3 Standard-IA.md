@@ -1,3 +1,7 @@
+---
+tags:
+  - aws
+---
 **S3 Standard-IA**:  Para dados que são acessados com menos frequência, mas que precisam estar disponíveis rapidamente quando acessados. Oferece baixo custo de armazenamento e alta durabilidade (99,999999999%), com uma disponibilidade de 99,9%. Ideal para backups de longo prazo e dados de recuperação de desastres.
 
 ---

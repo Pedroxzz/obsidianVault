@@ -8,5 +8,6 @@
   "templater-obsidian",
   "obsidian-book-search-plugin",
   "obsidian-projects",
-  "obsidian-kindle-plugin"
+  "obsidian-kindle-plugin",
+  "obsidian-importer"
 ]

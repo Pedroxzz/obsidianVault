@@ -1,3 +1,7 @@
+---
+tags:
+  - aws
+---
 **S3 Standard**: Para dados que são acessados com frequência.
 
 ---

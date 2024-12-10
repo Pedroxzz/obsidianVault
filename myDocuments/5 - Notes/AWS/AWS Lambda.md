@@ -1,3 +1,7 @@
+---
+tags:
+  - aws
+---
 
 # Porque o AWS Lambda?
 
