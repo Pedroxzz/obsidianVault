@@ -1,6 +1,6 @@
 ---
-My Tags: "[[3 - Indexes/Tags/Dictionary]]"
+My Tags: 
 tags:
   - dictionary
-Index: "[[Dictionary]]"
+Index:
 ---

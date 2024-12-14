@@ -1,5 +1,5 @@
 ---
 tags:
   - quicknotes
-Index: "[[Dictionary]]"
+Index:
 ---

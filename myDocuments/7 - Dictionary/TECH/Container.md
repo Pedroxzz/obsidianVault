@@ -1,7 +1,7 @@
 ---
 tags:
   - dictionary
-Index: "[[Dictionary]]"
+Index:
 ---
 
 Um container é um ambiente isolado utilizado para empacotar aplicações e configurar e dependências de seu aplicativo em um único objeto. Containers têm o objetivo de segregar e facilitar a portabilidade de aplicações em diferentes ambientes.

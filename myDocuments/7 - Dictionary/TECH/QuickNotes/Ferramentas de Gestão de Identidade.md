@@ -1,7 +1,7 @@
 ---
 tags:
   - quicknotes
-Index: "[[Dictionary]]"
+Index:
 ---
 
 Ferramentas de gestão de identidade, também conhecidas como IAM (Identity and Access Management), são fundamentais para controlar o acesso a recursos e informações em um ambiente de TI. Elas ajudam a garantir que apenas usuários autorizados tenham acesso aos sistemas e dados apropriados. Existem varias ferramentas:

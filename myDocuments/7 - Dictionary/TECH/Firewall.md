@@ -1,7 +1,7 @@
 ---
 tags:
   - dictionary
-Index: "[[Dictionary]]"
+Index:
 ---
 
 Um firewall é um componente essencial da segurança de rede de computadores. Ele atua como uma barreira entre uma rede privada e a internet, controlando o tráfego que entra e sai. Funciona como um filtro, permitindo apenas o tráfego autorizado e bloqueando o tráfego considerado perigoso. Existem diferentes tipos de firewalls, como firewalls de rede e firewalls de host, mas todos têm o objetivo comum de proteger contra ameaças externas, como invasões, malware e ataques de negação de serviço ([[DDoS]]). Os firewalls analisam os pacotes de dados que passam por eles e aplicam regras para determinar se esses pacotes devem ser permitidos ou bloqueados, com base em critérios como endereço IP, tipo de protocolo e porta de origem e destino.

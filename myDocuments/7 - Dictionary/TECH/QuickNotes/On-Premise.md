@@ -1,7 +1,7 @@
 ---
 tags:
   - quicknotes
-Index: "[[Dictionary]]"
+Index:
 ---
 
 O termo "on-premise" se refere, basicamente, a servidores locais. É um tipo de sistema de informação para ERP (Enterprise Resource Planning) em que os dados e os processos de um negócio são armazenados e gerenciados na própria organização - dai o termo "na premissa".

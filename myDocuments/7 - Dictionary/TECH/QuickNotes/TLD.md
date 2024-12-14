@@ -1,7 +1,7 @@
 ---
 tags:
   - quicknotes
-Index: "[[Dictionary]]"
+Index:
 ---
 
 # TLD (Top-Level-Domain)

@@ -1,9 +1,9 @@
 ---
 tags:
   - dictionary
-Index: "[[Dictionary]]"
+Index:
 ---
-w
+
 
 Extração, transformação e carregamento (ETL) correspondem ao processo de combinação de dados de varias fontes em um grande repositório geral, chamado de data warehouse. O processo de ETL usa um conjunto de regras de negócios para limpar e organizar dados brutos e prepará-los para armazenamento, análise de dados e machine learning (ML). Você pode atender  a necessidades especificas de business intelligence por meio da analise de dados.
 

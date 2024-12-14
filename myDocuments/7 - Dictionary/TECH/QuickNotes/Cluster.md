@@ -1,7 +1,7 @@
 ---
 tags:
   - quicknotes
-Index: "[[Dictionary]]"
+Index:
 ---
 
 Um cluster geralmente se refere a um grupo de recursos de computação que trabalham juntos para alcançar um objetivo comum. Dependendo do serviço, no caso da AWS, o conceito de cluster pode variar.

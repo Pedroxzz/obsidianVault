@@ -1,4 +1,5 @@
 ---
 tags:
   - "#oci"
+Index: "[[OCI]]"
 ---

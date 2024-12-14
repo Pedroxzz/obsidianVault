@@ -1,7 +1,7 @@
 ---
 tags:
   - quicknotes
-Index: "[[Dictionary]]"
+Index:
 ---
 ## O que é um hipervisor?
 

@@ -1,5 +1,5 @@
 ---
 tags:
   - dictionary
-Index: "[[Dictionary]]"
+Index:
 ---

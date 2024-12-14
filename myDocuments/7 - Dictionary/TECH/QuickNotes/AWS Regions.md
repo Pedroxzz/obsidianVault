@@ -1,6 +1,6 @@
 ---
-Index: "[[Dictionary]]"
+Index: 
 tags:
   - quicknotes
-My Tags: "[[AWS]]"
+My Tags:
 ---

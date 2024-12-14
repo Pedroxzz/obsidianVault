@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#dictionary  ",
@@ -39,7 +39,14 @@
       "query": "tag:#aws  ",
       "color": {
         "a": 1,
-        "rgb": 16750848
+        "rgb": 15113779
+      }
+    },
+    {
+      "query": "tag:#oci  ",
+      "color": {
+        "a": 1,
+        "rgb": 14175051
       }
     }
   ],
@@ -53,6 +60,6 @@
   "repelStrength": 12.9386666666667,
   "linkStrength": 0.863111111111111,
   "linkDistance": 200,
-  "scale": 0.09213980001787342,
+  "scale": 0.1707503387931443,
   "close": false
 }

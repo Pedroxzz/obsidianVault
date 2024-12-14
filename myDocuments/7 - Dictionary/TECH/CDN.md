@@ -1,7 +1,7 @@
 ---
 tags:
   - dictionary
-Index: "[[Dictionary]]"
+Index:
 ---
 ## O que é uma CDN?
 

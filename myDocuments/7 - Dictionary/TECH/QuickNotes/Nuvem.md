@@ -1,7 +1,7 @@
 ---
 tags:
   - quicknotes
-Index: "[[Dictionary]]"
+Index:
 ---
 Na área de TI, "nuvem" refere-se a uma infraestrutura de computação que permite acesso remoto a recursos e serviços por meio da internet. Em vez de armazenar e processar dados localmente em um servidor ou computador, a nuvem permite que esses processos sejam executados em data centers mantidos por provedores de serviços como AWS, Google Cloud e Microsoft Azure.
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - dictionary
-Index: "[[Dictionary]]"
+Index:
 ---
 
 Link: https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpc-nat-gateway.html
