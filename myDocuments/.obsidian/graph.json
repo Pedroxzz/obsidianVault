@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#dictionary  ",
@@ -60,6 +60,6 @@
   "repelStrength": 12.9386666666667,
   "linkStrength": 0.863111111111111,
   "linkDistance": 200,
-  "scale": 0.1707503387931443,
+  "scale": 0.09213980001787346,
   "close": false
 }
