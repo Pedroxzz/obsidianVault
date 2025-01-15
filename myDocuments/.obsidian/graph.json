@@ -5,48 +5,20 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#dictionary  ",
+      "query": "path:\"7 - Dictionary/TECH\"  ",
       "color": {
         "a": 1,
-        "rgb": 856551
-      }
-    },
-    {
-      "query": "tag:#quicknotes  ",
-      "color": {
-        "a": 1,
-        "rgb": 3316147
+        "rgb": 2536921
       }
     },
     {
       "query": "path:\"6 - Daily\" ",
       "color": {
         "a": 1,
-        "rgb": 16711914
-      }
-    },
-    {
-      "query": "path:\"5 - Notes/Study/Faculdade\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16715535
-      }
-    },
-    {
-      "query": "tag:#aws  ",
-      "color": {
-        "a": 1,
-        "rgb": 15113779
-      }
-    },
-    {
-      "query": "tag:#oci  ",
-      "color": {
-        "a": 1,
-        "rgb": 11823722
+        "rgb": 14394582
       }
     }
   ],
@@ -60,6 +32,6 @@
   "repelStrength": 12.9386666666667,
   "linkStrength": 0.863111111111111,
   "linkDistance": 200,
-  "scale": 0.09213980001787346,
+  "scale": 0.07259732391729029,
   "close": true
 }

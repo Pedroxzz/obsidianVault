@@ -1,9 +1,9 @@
 ---
 Index: "[[GitHub Foundations Certification]]"
 ---
-- [[Introduction]]
+- [[5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to Git/Introduction]]
 - [[What is version control]] ?
 - [[Exercise - Try out Git]]
 - [[Basic Git commands]]
-- [[Knowledge check]]
-- [[Summary]]
+- [[5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to Git/Knowledge check]]
+- [[5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to Git/Summary]]
