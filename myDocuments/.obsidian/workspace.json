@@ -18,8 +18,19 @@
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
+          },
+          {
+            "id": "6e4d3ea24e35d653",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "xss",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 285.5
   },
   "right": {
     "id": "9d188c02af334e54",
@@ -173,46 +184,46 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "03cad57ec0094114",
+  "active": "6e4d3ea24e35d653",
   "lastOpenFiles": [
-    "5 - Notes/Import/red-team-notes/REDES/Protocolos.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/19 - Psalm/Psalm.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/19 - Psalm/Ps-01.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/19 - Psalm/Ps-02.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/Sleep.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/Split Thinking.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/Connecting makes you engage Scripture.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/Connected Biblical Thinking.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/Chaotic Waters (Image).md",
+    "5 - Notes/Import/Bible Study Kit (v1)/Biblical Themes and Images MOC.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/BibleGateway-to-Obsidian Script.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/Benefits of Connected Biblical Thinking.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/About me.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/040 Productivity MOC.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/030 PKM MOC.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/020 Interests MOC.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/010 Faith MOC.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/000 Home.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/+Start here.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/+Overview.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/The Bible (WEB).md",
+    "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/40 - Matthew/Matthew.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/40 - Matthew/Matt-02.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/40 - Matthew/Matt-01.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/Tower of Babel.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/What is the Gospel.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/Work is broken.md",
+    "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/66 - Revelation",
+    "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/65 - Jude",
+    "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/64 - 3 John",
+    "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/63 - 2 John",
+    "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/62 - 1 John",
+    "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/61 - 2 Peter",
+    "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/60 - 1 Peter",
+    "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/59 - James",
+    "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/58 - Hebrews",
+    "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/57 - Philemon",
     "5 - Notes/Import/red-team-notes/IMG/Pasted image 20231221002635.png",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub/Introduction to GitHub.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub/Exercise - A guided tour of GitHub.md",
-    "5 - Notes/AWS/EC2.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub/GitHub platform management.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub/GitHub of a collaborative plataform.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub/Introduction.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub/Components of the GitHub Flow.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub/Knowledge check.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub's products/Knowledge check.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub's products/Introduction to GitHub's products.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub's products/Introduction.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub's products/Summary.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub's products/GitHb Mobile and GitHub Desktop.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub's products/GitHub accounts and plans.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub's products/GitHub billing.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub's products",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub/Summary.md",
-    "6 - Daily/2025/01-JANEIRO/2025-01-14.md",
-    "6 - Daily/2025/2025.md",
-    "6 - Daily/2024/2024.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub/What is GitHub.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to Git/Knowledge check.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to Git/Introduction.md",
-    "5 - Notes/Import/red-team-notes/WEB/2. Enum/Enum - Médio.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to Git/What is version control.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to Git/Introduction to Git.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to Git",
-    "5 - Notes/Microsoft/GitHub Foundations Certification",
-    "5 - Notes/Microsoft",
-    "5 - Notes/Study/Faculdade/FMU",
-    "6 - Daily/2025/01-JANEIRO",
-    "6 - Daily/2025",
-    "3 - Indexes/IF",
     "2 - Source material/Images/IF/Audiograma de Sons Familiares.png",
-    "2 - Source material/Images/IF",
     "6 - Daily/2024/10-OUTUBRO/IntegraçãoDeTestes.canvas",
     "5 - Notes/OCI/Oracle Cloud Infrastructure AI FoundationsCourse 2024/2. AI Foundations/Objectives.canvas",
     "5 - Notes/Import/red-team-notes/REDES/Camadas.png",
