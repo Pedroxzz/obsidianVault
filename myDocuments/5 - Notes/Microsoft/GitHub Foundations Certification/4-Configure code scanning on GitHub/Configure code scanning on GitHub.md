@@ -20,10 +20,10 @@ After completing this module, you'll be able to:
 - Familiarity with managing GitHub administrative settings
 - Basic knowledge of GitHub Actions
 
-- [[Introduction]]
+- [[5 - Notes/Microsoft/GitHub Foundations Certification/4-Configure code scanning on GitHub/Introduction]]
 - [[What is code scanning]]?
 - [[Enable code scanning with third party tools]]
 - [[Configure code scanning]]
 - [[Configure code scanning exercise ]]
-- [[Knowledge check]]
-- [[Summary]]
+- [[5 - Notes/Microsoft/GitHub Foundations Certification/4-Configure code scanning on GitHub/Knowledge check]]
+- [[5 - Notes/Microsoft/GitHub Foundations Certification/4-Configure code scanning on GitHub/Summary]]

@@ -13,11 +13,11 @@ In this module, you'll:
 - Explore the collaborative features of GitHub by reviewing issues and discussions.
 	- Recognize how to manage your GitHub notifications and subscriptions.
 
-- [[5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub/Introduction]]
+- [[5 - Notes/Microsoft/GitHub Foundations Certification/2-Introduction to GitHub/Introduction]]
 - [[What is GitHub]]?
 - [[Components of the GitHub Flow]]
 - [[GitHub of a collaborative plataform]]
 - [[GitHub platform management]] 
 - [[Exercise - A guided tour of GitHub]]
-- [[5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub/Knowledge check|Knowledge check]]
-- [[5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub/Summary|Summary]]
+- [[5 - Notes/Microsoft/GitHub Foundations Certification/2-Introduction to GitHub/Knowledge check|Knowledge check]]
+- [[5 - Notes/Microsoft/GitHub Foundations Certification/2-Introduction to GitHub/Summary|Summary]]

@@ -24,9 +24,9 @@ After completing this module, you're able to:
 
 Assess your understanding of this module. Sign in and answer all questions correctly to earn a pass designation on your profile.
 
-- [[5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub's products/Introduction]]
+- [[5 - Notes/Microsoft/GitHub Foundations Certification/3-Introduction to GitHub's products/Introduction]]
 - [[GitHub accounts and plans]]
 - [[GitHb Mobile and GitHub Desktop]]
 - [[GitHub billing]]
-- [[5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub's products/Knowledge check]]
-- [[5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub's products/Summary]]
+- [[5 - Notes/Microsoft/GitHub Foundations Certification/3-Introduction to GitHub's products/Knowledge check]]
+- [[5 - Notes/Microsoft/GitHub Foundations Certification/3-Introduction to GitHub's products/Summary]]
