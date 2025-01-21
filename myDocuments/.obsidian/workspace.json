@@ -18,20 +18,6 @@
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
-          },
-          {
-            "id": "9a43f86af481f5b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Notes/Import/KJV-Bible/Old Testament.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Old Testament"
-            }
           }
         ]
       }
@@ -89,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 232.5
   },
   "right": {
     "id": "9d188c02af334e54",
@@ -154,7 +140,7 @@
             }
           },
           {
-            "id": "57292e1d59c589fd",
+            "id": "ddc0e215e9add315",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -189,10 +175,24 @@
   },
   "active": "03cad57ec0094114",
   "lastOpenFiles": [
+    "1 - Simples notes/Study/AWS Partner Certification Readiness - Session 1.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/Configure code scanning on GitHub/Configure code scanning.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/Configure code scanning on GitHub/Summary.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/Configure code scanning on GitHub/Knowledge check.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/Configure code scanning on GitHub/Configure code scanning exercise.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/Configure code scanning on GitHub/Configure code scanning on GitHub.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/Configure code scanning on GitHub/Enable code scanning with third party tools.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/Configure code scanning on GitHub/What is code scanning.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/Configure code scanning on GitHub/Introduction.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to Git/Introduction to Git.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to Git/Introduction.md",
+    "3 - Indexes/Certifications/GitHub Foundations Certification.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/Configure code scanning on GitHub",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/Introduction to GitHub's products/GitHb Mobile and GitHub Desktop.md",
+    "5 - Notes/Import/KJV-Bible/01 - Genesis - KJV/01 - Genesis - KJV.md",
     "5 - Notes/Import/KJV-Bible/Old Testament.md",
     "5 - Notes/Import/KJV-Bible/KJV - Bible.md",
     "5 - Notes/Import/KJV-Bible/New Testament.md",
-    "5 - Notes/Import/KJV-Bible/01 - Genesis - KJV/01 - Genesis - KJV.md",
     "5 - Notes/Import/KJV-Bible/01 - Genesis - KJV",
     "6 - Daily/2025/01-JANEIRO/2025-01-20.md",
     "5 - Notes/Import/KJV-Bible",
@@ -204,19 +204,6 @@
     "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/19 - Psalm/Ps-01.md",
     "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/19 - Psalm/Ps-02.md",
     "5 - Notes/Import/Bible Study Kit (v1)/Sleep.md",
-    "5 - Notes/Import/Bible Study Kit (v1)/Split Thinking.md",
-    "5 - Notes/Import/Bible Study Kit (v1)/Connecting makes you engage Scripture.md",
-    "5 - Notes/Import/Bible Study Kit (v1)/Connected Biblical Thinking.md",
-    "5 - Notes/Import/Bible Study Kit (v1)/Chaotic Waters (Image).md",
-    "5 - Notes/Import/Bible Study Kit (v1)/Biblical Themes and Images MOC.md",
-    "5 - Notes/Import/Bible Study Kit (v1)/BibleGateway-to-Obsidian Script.md",
-    "5 - Notes/Import/Bible Study Kit (v1)/Benefits of Connected Biblical Thinking.md",
-    "5 - Notes/Import/Bible Study Kit (v1)/About me.md",
-    "5 - Notes/Import/Bible Study Kit (v1)/040 Productivity MOC.md",
-    "5 - Notes/Import/Bible Study Kit (v1)/030 PKM MOC.md",
-    "5 - Notes/Import/Bible Study Kit (v1)/020 Interests MOC.md",
-    "5 - Notes/Import/Bible Study Kit (v1)/010 Faith MOC.md",
-    "5 - Notes/Import/Bible Study Kit (v1)/000 Home.md",
     "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/66 - Revelation",
     "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/65 - Jude",
     "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/64 - 3 John",
@@ -224,7 +211,6 @@
     "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/62 - 1 John",
     "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/61 - 2 Peter",
     "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/60 - 1 Peter",
-    "5 - Notes/Import/Bible Study Kit (v1)/Scripture (WEB)/59 - James",
     "5 - Notes/Import/red-team-notes/IMG/Pasted image 20231221002635.png",
     "2 - Source material/Images/IF/Audiograma de Sons Familiares.png",
     "6 - Daily/2024/10-OUTUBRO/IntegraçãoDeTestes.canvas",
