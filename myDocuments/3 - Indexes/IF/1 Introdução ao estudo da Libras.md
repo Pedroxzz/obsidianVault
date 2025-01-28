@@ -1,0 +1,3 @@
+---
+Index: "[[Libras compreensão básica]]"
+---

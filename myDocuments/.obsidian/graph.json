@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"7 - Dictionary/TECH\"  ",
@@ -25,7 +25,14 @@
       "query": "path:\"7 - Dictionary/People\"  ",
       "color": {
         "a": 1,
-        "rgb": 12320563
+        "rgb": 10944256
+      }
+    },
+    {
+      "query": "path:\"5 - Notes/Study\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16722217
       }
     }
   ],
@@ -34,11 +41,11 @@
   "textFadeMultiplier": -1.1,
   "nodeSizeMultiplier": 1.0770962962963,
   "lineSizeMultiplier": 0.960810810810811,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.454261954261954,
   "repelStrength": 12.9386666666667,
   "linkStrength": 0.863111111111111,
   "linkDistance": 200,
-  "scale": 0.11617195410185933,
+  "scale": 0.6292379014468503,
   "close": true
 }
