@@ -2,54 +2,43 @@
   "collapse-filter": true,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
+    {
+      "query": "path:\"6 - Daily\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14812112
+      }
+    },
+    {
+      "query": "path:\"5 - Notes/Study/Faculdade\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16585234
+      }
+    },
     {
       "query": "path:\"7 - Dictionary/TECH\"  ",
       "color": {
         "a": 1,
-        "rgb": 2536921
-      }
-    },
-    {
-      "query": "path:\"6 - Daily\" ",
-      "color": {
-        "a": 1,
-        "rgb": 15888103
-      }
-    },
-    {
-      "query": "path:\"7 - Dictionary/People\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 10944256
-      }
-    },
-    {
-      "query": "path:\"5 - Notes/Study\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16722217
+        "rgb": 12267
       }
     }
   ],
   "collapse-display": true,
-  "showArrow": true,
-  "textFadeMultiplier": -1.1,
-  "nodeSizeMultiplier": 1.0770962962963,
-  "lineSizeMultiplier": 0.960810810810811,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.454261954261954,
-  "repelStrength": 12.9386666666667,
-  "linkStrength": 0.863111111111111,
-  "linkDistance": 200,
-<<<<<<< HEAD
-  "scale": 0.11617195410186136,
-=======
-  "scale": 0.07265942006052452,
->>>>>>> 2d189dc9d697b2f44538775c89028fe62252a52f
-  "close": true
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.13168724279835525,
+  "close": false
 }

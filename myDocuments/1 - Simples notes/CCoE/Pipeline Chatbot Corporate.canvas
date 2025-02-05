@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"55d046539079b901","x":-91,"y":-137,"width":250,"height":60,"type":"text","text":"150 testes\n"},
+		{"id":"3098d4833c23ef1f","x":-91,"y":-36,"width":250,"height":60,"type":"text","text":"Testes para whatsapp"},
+		{"id":"56bb56bc20f2eb61","x":-560,"y":-145,"width":362,"height":136,"type":"text","text":"Pipe nova João -   \nChatbot Corporate Automation"},
+		{"id":"e6f627f474be7c38","x":-80,"y":124,"width":250,"height":60,"type":"text","text":"Teste no jenkins"}
+	],
+	"edges":[
+		{"id":"eac5afc8ae6cc874","fromNode":"56bb56bc20f2eb61","fromSide":"right","toNode":"55d046539079b901","toSide":"left"},
+		{"id":"52bd2efcb2d8d4fa","fromNode":"56bb56bc20f2eb61","fromSide":"right","toNode":"3098d4833c23ef1f","toSide":"left"},
+		{"id":"b8098bfdadf52011","fromNode":"56bb56bc20f2eb61","fromSide":"right","toNode":"e6f627f474be7c38","toSide":"left"}
+	]
+}

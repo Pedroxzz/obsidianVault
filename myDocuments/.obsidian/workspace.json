@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "278efab04927a394",
+        "id": "6eb6763822fe73bc",
         "type": "tabs",
         "children": [
           {
-            "id": "2fffbcd1d0a90501",
+            "id": "2e1c47362e88aba3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Daily/2025/02-FEVEREIRO/2025-02-05.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "2025-02-05"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -102,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Daily/2025-01-28.md",
+                "file": "6 - Daily/2025/02-FEVEREIRO/2025-02-05.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 2025-01-28"
+              "title": "Links inversos para 2025-02-05"
             }
           },
           {
@@ -121,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Daily/2025-01-28.md",
+                "file": "6 - Daily/2025/02-FEVEREIRO/2025-02-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 2025-01-28"
+              "title": "Links de saída para 2025-02-05"
             }
           },
           {
@@ -135,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Daily/2025-01-28.md"
+                "file": "6 - Daily/2025/02-FEVEREIRO/2025-02-05.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2025-01-28"
+              "title": "Sumário de 2025-02-05"
             }
           },
           {
@@ -156,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 222.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,11 +180,41 @@
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-projects:Open projects": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ddc0e215e9add315",
+  "active": "2e1c47362e88aba3",
   "lastOpenFiles": [
+    "6 - Daily/2025/02-FEVEREIRO/2025-02-05.md",
+    "6 - Daily/2025/02-FEVEREIRO/2025-02-04.md",
+    "6 - Daily/2025/02-FEVEREIRO/2025-02-03.md",
+    "1 - Simples notes/CCoE/Pipeline Chatbot Corporate.canvas",
+    "6 - Daily/2025/2025.md",
+    "6 - Daily/2025/02-FEVEREIRO/02-fevereiro.md",
+    "6 - Daily/2025/02-FEVEREIRO",
+    "Excalidraw/Drawing 2025-01-31 15.27.38.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-31 15.25.30.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-31 15.26.04.excalidraw.md",
+    "Excalidraw/Sem título.md",
+    "1 - Simples notes/CCoE/Sem título.canvas",
+    "Excalidraw",
+    "1 - Simples notes/CCoE/Arquitetura nova VPC dev-agregador.md",
+    "1 - Simples notes/CCoE/Fale conosco - Docker.md",
+    "5 - Notes/Courses/Alura/Amazon Alexa Programe a sua assistente pessoal/Amazon Alexa Programe a sua assistente pessoal.md",
+    "5 - Notes/Courses/Alura/Amazon Alexa Programe a sua assistente pessoal/1. A primeira skill",
+    "3 - Indexes/Alura/Alura.md",
+    "5 - Notes/Courses/Alura/Amazon Alexa Programe a sua assistente pessoal",
+    "3 - Indexes/Alura/Amazon Alexa Programe a sua assistente pessoal.md",
+    "3 - Indexes/Alura",
+    "5 - Notes/Courses/Alura",
+    "5 - Notes/Courses",
+    "3 - Indexes/Certifications/Oracle Cloud Infrastructure AI FoundationsCourse 2024/Oracle Cloud Infrastructure AI FoundationsCourse 2024.md",
+    "5 - Notes/Courses",
+    "6 - Daily/2025/01-JANEIRO/2025-01-30.md",
+    "6 - Daily/2025/01-JANEIRO/2025-01-28.md",
+    "6 - Daily/2025/01-JANEIRO/2025-01-27.md",
+    "5 - Notes/ICM/Projeto Aprendiz 2025/Apostila 2",
     "5 - Notes/ICM/Projeto Aprendiz 2025/Apostila 2.md",
     "5 - Notes/ICM/Projeto Aprendiz 2025/Apostila 2",
     "5 - Notes/ICM/Projeto Aprendiz 2025/Apostila 1.md",
@@ -185,30 +223,9 @@
     "5 - Notes/ICM/Projeto Aprendiz 2025/Apostila 1/Posicionamento dos Tons na Bateria - Estratégias para Configuração Eficiente.md",
     "5 - Notes/ICM/Projeto Aprendiz 2025/Apostila 1/Ajustes Ergonômicos do Kit de Bateria - Otimizando o  Conforto e a Performance.md",
     "5 - Notes/ICM/Projeto Aprendiz 2025/Apostila 1/Conhecendo a Bateria - Introdução aos Componentes e Configuração do Kit.md",
-    "5 - Notes/ICM/Projeto Aprendiz 2025/Apostila 1",
     "5 - Notes/ICM/Slides Seminário.md",
-    "5 - Notes/ICM/Reunião - Trombetas e Festas  IV.md",
-    "3 - Indexes/EBD.md",
-    "3 - Indexes/Projeto Aprendiz 2025.md",
-    "3 - Indexes/ICM.md",
-    "5 - Notes/ICM/Projeto Aprendiz 2025",
-    "7 - Dictionary/TECH/Endpoint.md",
-    "6 - Daily/2025-01-28.md",
-    "7 - Dictionary/TECH/Firewall.md",
-    "1 - Simples notes/Study/AWS Partner Certification Readiness - Session 1.md",
-    "7 - Dictionary/TECH/QuickNotes/DDoS.md",
-    "7 - Dictionary/TECH/IaaS.md",
-    "5 - Notes/ICM/EBD/EBD 02-02-2025.md",
-    "5 - Notes/ICM/EBD/EBD 19-01-2025.md",
-    "5 - Notes/Study/Faculdade/IF/Libras compreensão básica/1 Introdução ao estudo da Libras/1.1 surdo ou Surdo.md",
-    "3 - Indexes/IF/1 Introdução ao estudo da Libras.md",
-    "3 - Indexes/Faculdade/7º Período.md",
-    "5 - Notes/ICM/EBD/EBD 12-01-2025.md",
-    "5 - Notes/ICM/EBD/Sem título.md",
-    "5 - Notes/ICM/EBD",
     "2 - Source material/Images/UNICSUL/Implementação Azure.png",
     "2 - Source material/Images/UNICSUL/Dashboard Azure.png",
-    "2 - Source material/Images/UNICSUL",
     "2 - Source material/Images/UNICSUL/Desligamento automatico.png",
     "Pasted image 20250124063851.png",
     "Pasted image 20250123141820.png",
@@ -217,14 +234,8 @@
     "Pasted image 20250123141218.png",
     "Pasted image 20250123141141.png",
     "Pasted image 20250123141031.png",
-    "5 - Notes/ICM",
-    "3 - Indexes/Cruzeiro do Sul",
-    "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing",
-    "5 - Notes/Study/Faculdade/Cruzeiro do Sul",
-    "7 - Dictionary/People",
     "6 - Daily/2024/10-OUTUBRO/IntegraçãoDeTestes.canvas",
     "5 - Notes/OCI/Oracle Cloud Infrastructure AI FoundationsCourse 2024/2. AI Foundations/Objectives.canvas",
-    "Sem título 1.canvas",
-    "Sem título.canvas"
+    "Sem título 1.canvas"
   ]
 }
