@@ -1,0 +1,33 @@
+name: Deploy para Google Drive
+
+on:
+  push:
+    branches:
+      - main 
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout do código
+        uses: actions/checkout@v4
+
+      - name: 🔑 Configurar Credenciais do Google Drive
+        run: |
+          echo "$GDRIVE_CREDENTIALS" > credentials.json
+        env:
+          GDRIVE_CREDENTIALS: ${{ secrets.GDRIVE_CREDENTIALS }}
+
+      - name: 📦 Instalar rclone
+        run: |
+          sudo apt update
+          sudo apt install -y rclone
+
+      - name: 🔗 Configurar rclone
+        run: |
+          rclone config create mydrive drive scope drive service_account_file credentials.json
+
+      - name: 📤 Upload para Google Drive
+        run: |
+          rclone copy ./ "mydrive:/" --drive-root-folder-id=1TSs-0V6j9x7r2WBcEqX0PiH4Jqa3pqMT --progress
