@@ -4,7 +4,8 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch: 
+  workflow_dispatch:  
+
 jobs:
   upload-to-drive:
     runs-on: ubuntu-latest
@@ -31,3 +32,27 @@ jobs:
       - name: 📤 Upload para Google Drive
         run: |
           rclone copy ./ "mydrive:/" --drive-root-folder-id=1TSs-0V6j9x7r2WBcEqX0PiH4Jqa3pqMT --progress
+
+  notification-success:
+    runs-on: ubuntu-latest
+    needs: upload-to-drive
+    if: success() 
+
+    steps:
+      - name: 📢 Enviar notificação de sucesso para Discord
+        run: |
+          curl -X POST -H "Content-Type: application/json" \
+            -d '{"content": "<@everyone> O deploy para o Google Drive foi concluído com sucesso!"}' \
+            ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+  notification-failure:
+    runs-on: ubuntu-latest
+    needs: upload-to-drive
+    if: failure() 
+
+    steps:
+      - name: Enviar notificação de falha para Discord
+        run: |
+          curl -X POST -H "Content-Type: application/json" \
+            -d '{"content": "<@everyone> ⚠️ O deploy para o Google Drive **falhou**! Verifique os logs no GitHub Actions."}' \
+            ${{ secrets.DISCORD_WEBHOOK_URL }}
