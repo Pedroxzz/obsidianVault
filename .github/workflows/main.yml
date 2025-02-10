@@ -3,8 +3,8 @@ name: Deploy para Google Drive
 on:
   push:
     branches:
-      - main 
-
+      - main
+  workflow_dispatch: 
 jobs:
   upload-to-drive:
     runs-on: ubuntu-latest
