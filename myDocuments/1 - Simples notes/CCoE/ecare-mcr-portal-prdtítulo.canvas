@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"d1ad4b8dd1642df7","type":"text","text":"# ecare-mcr-portal-prd","x":-140,"y":-340,"width":344,"height":60},
+		{"id":"8d2f0c3415b1374a","type":"text","text":"| Declarative: Checkout SCM | Setup |     |\n| ------------------------- | ----- | --- |","x":-640,"y":1,"width":370,"height":97,"color":"1"},
+		{"id":"4bc2be34d63202e1","type":"text","text":"Properties","x":-480,"y":-171,"width":250,"height":60,"color":"4"},
+		{"id":"4d2a8ed933582fb5","type":"text","text":"Jenkins Pipe Nvoa","x":-171,"y":-171,"width":250,"height":60,"color":"5"},
+		{"id":"7bf55f36b8172180","type":"text","text":"First Steps?","x":-200,"y":20,"width":250,"height":60},
+		{"id":"4626d944e6ac1f73","type":"text","text":"SCM\n","x":-580,"y":215,"width":250,"height":60},
+		{"id":"85ae24260c61f3c0","type":"text","text":"Build Application\n","x":-580,"y":315,"width":250,"height":50},
+		{"id":"e980c44c4019733a","type":"text","text":"Push Statics to AWS S3","x":-270,"y":315,"width":250,"height":60},
+		{"id":"17effa23b2221c81","type":"text","text":"Clean CloudFront\t","x":50,"y":315,"width":250,"height":60},
+		{"id":"ff0d787daf338f73","type":"text","text":"|Clean Cache CDN|\n|---|","x":340,"y":315,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"a8738425d5548c04","fromNode":"4626d944e6ac1f73","fromSide":"bottom","toNode":"85ae24260c61f3c0","toSide":"top"},
+		{"id":"27013616b362422a","fromNode":"d1ad4b8dd1642df7","fromSide":"bottom","toNode":"4bc2be34d63202e1","toSide":"top"},
+		{"id":"44185ea2f03fd71f","fromNode":"d1ad4b8dd1642df7","fromSide":"bottom","toNode":"4d2a8ed933582fb5","toSide":"top"},
+		{"id":"c70614111a2e0284","fromNode":"4bc2be34d63202e1","fromSide":"left","toNode":"8d2f0c3415b1374a","toSide":"top"},
+		{"id":"b4ab2f768c207987","fromNode":"8d2f0c3415b1374a","fromSide":"right","toNode":"7bf55f36b8172180","toSide":"left"},
+		{"id":"d59a6c9e4424057c","fromNode":"8d2f0c3415b1374a","fromSide":"bottom","toNode":"4626d944e6ac1f73","toSide":"top"},
+		{"id":"b9c79729b96e74e9","fromNode":"7bf55f36b8172180","fromSide":"bottom","toNode":"4626d944e6ac1f73","toSide":"top"},
+		{"id":"1916a785bc698208","fromNode":"85ae24260c61f3c0","fromSide":"right","toNode":"e980c44c4019733a","toSide":"left"},
+		{"id":"9798717bb8eafade","fromNode":"e980c44c4019733a","fromSide":"right","toNode":"17effa23b2221c81","toSide":"left"},
+		{"id":"6d0e9e9a9a627ea7","fromNode":"17effa23b2221c81","fromSide":"right","toNode":"ff0d787daf338f73","toSide":"left"}
+	]
+}
