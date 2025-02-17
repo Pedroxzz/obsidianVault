@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6eb6763822fe73bc",
+        "id": "b0ddcdb1c55dccc0",
         "type": "tabs",
         "children": [
           {
-            "id": "2e1c47362e88aba3",
+            "id": "40df0118e21f9f5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Daily/2025/02-FEVEREIRO/2025-02-06.md",
+                "file": "6 - Daily/2025/02-FEVEREIRO/2025-02-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-06"
-            }
-          },
-          {
-            "id": "cc4ddad258e37836",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Daily/2025/02-FEVEREIRO/2025-02-11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-02-11"
+              "title": "2025-02-14"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,13 +184,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ee2eb6c24704379",
+  "active": "40df0118e21f9f5b",
   "lastOpenFiles": [
-    "6 - Daily/2025/02-FEVEREIRO/2025-02-10.md",
+    "6 - Daily/2025/02-FEVEREIRO/2025-02-13.md",
+    "6 - Daily/2025/02-FEVEREIRO/2025-02-14.md",
+    "6 - Daily/2025/02-FEVEREIRO/2025-02-12.md",
+    "6 - Daily/2025/02-FEVEREIRO/2025-02-06.md",
     "6 - Daily/2025/02-FEVEREIRO/2025-02-11.md",
+    "6 - Daily/2025/02-FEVEREIRO/2025-02-10.md",
     "6 - Daily/2025/02-FEVEREIRO/2025-02-07.md",
     "1 - Simples notes/CCoE/ecare-mcr-portal-prdtítulo.canvas",
-    "6 - Daily/2025/02-FEVEREIRO/2025-02-06.md",
     "6 - Daily/2025/02-FEVEREIRO/2025-02-05.md",
     "6 - Daily/2025/02-FEVEREIRO/2025-02-04.md",
     "6 - Daily/2025/02-FEVEREIRO/2025-02-03.md",
@@ -237,9 +225,6 @@
     "5 - Notes/ICM/Projeto Aprendiz 2025/Apostila 2",
     "5 - Notes/ICM/Projeto Aprendiz 2025/Apostila 2.md",
     "5 - Notes/ICM/Projeto Aprendiz 2025/Apostila 2",
-    "5 - Notes/ICM/Projeto Aprendiz 2025/Apostila 1.md",
-    "5 - Notes/ICM/Projeto Aprendiz 2025/Apostila 1/Noções Básicas de Ritmo para Bateria - Fundamentos para Iniciantes.md",
-    "5 - Notes/ICM/Projeto Aprendiz 2025/Apostila 1/Técnicas Básicas de Baqueta - Dominando o Controle e a Precisão.md",
     "2 - Source material/Images/UNICSUL/Implementação Azure.png",
     "2 - Source material/Images/UNICSUL/Dashboard Azure.png",
     "2 - Source material/Images/UNICSUL/Desligamento automatico.png",
