@@ -36,13 +36,6 @@
       }
     },
     {
-      "query": "path:\"5 - Notes/Skill Builder\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 9198354
-      }
-    },
-    {
       "query": "path:\"5 - Notes/Microsoft\"  ",
       "color": {
         "a": 1,
@@ -60,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.0939292790284711,
+  "scale": 0.13168724279835647,
   "close": false
 }
