@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b928c87d998a50bc",
+        "id": "f2a3aa92321bb97c",
         "type": "tabs",
         "children": [
           {
-            "id": "e167f9bc13556bc3",
+            "id": "8c4b2199a5ef4787",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "5 - Notes/Busuu/Japones/A1/Modulo 8 - Idiomas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modulo 8 - Idiomas"
             }
           }
         ]
@@ -36,8 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -180,8 +183,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e167f9bc13556bc3",
+  "active": "8c4b2199a5ef4787",
   "lastOpenFiles": [
+    "5 - Notes/Busuu/Japones/A1/Modulo 1 - Apresentações.md",
+    "5 - Notes/Busuu/Japones/A1/Modulo 8 - Idiomas.md",
+    "3 - Indexes/Busuu/Japones/Japonês.md",
+    "3 - Indexes/Busuu/Busuu.md",
+    "3 - Indexes/Busuu/Japones",
+    "3 - Indexes/Busuu",
+    "5 - Notes/Busuu/Japones/A1",
+    "5 - Notes/Busuu/Japones",
+    "5 - Notes/Busuu",
     "5 - Notes/Microsoft/GitHub Foundations Certification/6-Code with GitHub Codespaces/Code with GitHub Codespaces.md",
     "5 - Notes/Microsoft/GitHub Foundations Certification/7 -Manage your work with GitHub Projects/Manage your work with GitHub Projects.md",
     "5 - Notes/Microsoft/GitHub Foundations Certification/6-Code with GitHub Codespaces/Introduction.md",
@@ -218,19 +230,10 @@
     "6 - Daily/2025/02-FEVEREIRO/2025-02-17.md",
     "6 - Daily/2025/02-FEVEREIRO/2025-02-18.md",
     "6 - Daily/2025/02-FEVEREIRO/2025-02-14.md",
-    "6 - Daily/2025/02-FEVEREIRO/2025-02-13.md",
-    "6 - Daily/2025/02-FEVEREIRO/2025-02-12.md",
-    "6 - Daily/2025/02-FEVEREIRO/2025-02-06.md",
-    "6 - Daily/2025/02-FEVEREIRO/2025-02-11.md",
     "1 - Simples notes/CCoE/Pipeline Chatbot Corporate.canvas",
     "6 - Daily/2025/02-FEVEREIRO",
     "1 - Simples notes/CCoE/Sem título.canvas",
     "Excalidraw",
-    "5 - Notes/Courses/Alura/Amazon Alexa Programe a sua assistente pessoal/1. A primeira skill",
-    "5 - Notes/Courses/Alura/Amazon Alexa Programe a sua assistente pessoal",
-    "3 - Indexes/Alura",
-    "5 - Notes/Courses/Alura",
-    "5 - Notes/Courses",
     "6 - Daily/2024/10-OUTUBRO/IntegraçãoDeTestes.canvas",
     "5 - Notes/OCI/Oracle Cloud Infrastructure AI FoundationsCourse 2024/2. AI Foundations/Objectives.canvas",
     "Sem título 1.canvas"
