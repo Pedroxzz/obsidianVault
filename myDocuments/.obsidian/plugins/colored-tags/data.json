@@ -1,0 +1,49 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "aws": 1,
+    "certification": 2,
+    "oci": 3,
+    "coursera": 4,
+    "daily": 5,
+    "WEB": 6,
+    "CRIPTOGRAFIA": 7,
+    "CTF": 8,
+    "ENG_REVERSA": 9,
+    "Phishing": 10,
+    "ENG_SOCIAL": 11,
+    "EXPLOITATION": 12,
+    "Payload": 13,
+    "Primeiro": 14,
+    "Linux": 15,
+    "Windows": 16,
+    "GERAL": 17,
+    "Relatório": 18,
+    "MOBILE": 19,
+    "Organização": 20,
+    "REDES": 21,
+    "SO": 22,
+    "Pentest": 23,
+    "API": 24,
+    "️⃣": 25,
+    "This": 26,
+    "Add": 27,
+    "FMU": 28,
+    "dictionary": 29,
+    "quicknotes": 30,
+    "livro": 31,
+    "excalidraw": 32,
+    "aws/skillbuilder": 1,
+    "aws/skl": 2
+  },
+  "_version": 3
+}
