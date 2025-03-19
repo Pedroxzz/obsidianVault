@@ -1,0 +1,14 @@
+.nav-folder-children {
+    border-left: none !important;
+}
+.nav-folder-children .nav-folder-title {
+    color: #ff7b00 !important; /* Cor das subpastas */
+}
+
+.nav-folder-children .nav-folder-children .nav-folder-title {
+    color: #00bfff !important; /* Cor das sub-subpastas */
+}
+
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder-title {
+    color: #32cd32 !important; /* Cor das sub-sub-subpastas */
+}

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "382a1856878369cc",
+        "id": "d8bd7a756cf1c508",
         "type": "tabs",
         "children": [
           {
-            "id": "c7b4b8c88dd128aa",
+            "id": "0e4d40303e6ddb04",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "5 - Notes/AWS/Skill Builder/AWS Cloud Practitioner Essentials/Module 2 Compute in the cloud/Module 2 Compute in the cloud.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Module 2 Compute in the cloud"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 217.5
   },
   "right": {
     "id": "9d188c02af334e54",
@@ -91,7 +95,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -103,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Daily/2025/02-FEVEREIRO/2025-02-05.md",
+                "file": "5 - Notes/AWS/Skill Builder/AWS Cloud Practitioner Essentials/Module 2 Compute in the cloud/Module 2 Compute in the cloud.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 2025-02-05"
+              "title": "Links inversos para Module 2 Compute in the cloud"
             }
           },
           {
@@ -122,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Daily/2025/02-FEVEREIRO/2025-02-05.md",
+                "file": "5 - Notes/AWS/Skill Builder/AWS Cloud Practitioner Essentials/Module 2 Compute in the cloud/Module 2 Compute in the cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 2025-02-05"
+              "title": "Links de saída para Module 2 Compute in the cloud"
             }
           },
           {
@@ -136,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Daily/2025/02-FEVEREIRO/2025-02-05.md",
+                "file": "5 - Notes/AWS/Skill Builder/AWS Cloud Practitioner Essentials/Module 2 Compute in the cloud/Module 2 Compute in the cloud.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2025-02-05"
+              "title": "Sumário de Module 2 Compute in the cloud"
             }
           },
           {
@@ -160,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 223.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,15 +186,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ee2eb6c24704379",
+  "active": "ddc0e215e9add315",
   "lastOpenFiles": [
+    "4 - Templates/Books.md",
+    "5 - Notes/AWS/Skill Builder/AWS Cloud Practitioner Essentials/Module 2 Compute in the cloud/Module 2 Compute in the cloud.md",
+    "5 - Notes/AWS/Skill Builder/AWS Cloud Practitioner Essentials/AWS Cloud Practitioner Essentials.md",
+    "3 - Indexes/AWS/AWS Cloud Practitioner Essentials.md",
+    "6 - Daily/2025/03-MARCO/2025-03-19.md",
+    "5 - Notes/AWS/Skill Builder/AWS Cloud Practitioner Essentials/Module 2 Compute in the cloud",
+    "6 - Daily/2025/03-MARCO/2025-03-18.md",
+    "6 - Daily/2025/03-MARCO/2025-03-17.md",
+    "5 - Notes/AWS/Skill Builder/AWS Cloud Practitioner Essentials",
+    "6 - Daily/2025/03-MARCO/2025-03-14.md",
+    "6 - Daily/2025/03-MARCO/2025-03-13.md",
+    "6 - Daily/2025/03-MARCO/2025-03-12.md",
     "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Nuvem Hibrida.md",
     "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Nuvem Privada.md",
     "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Evolução tecnológica e paradigmas que permitiram cloud computing.md",
     "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Nuvem pública.md",
-    "6 - Daily/2025/03-MARCO/2025-03-13.md",
     "2 - Source material/Images/CCoE/LMA Arquiteura.png",
-    "6 - Daily/2025/03-MARCO/2025-03-12.md",
     "1 - Simples notes/CCoE/Otimize suas reuniões com AI.md",
     "Pasted image 20250312144412.png",
     "Pasted image 20250312144745.png",
@@ -211,25 +227,15 @@
     "5 - Notes/AWS/Educate/Introduction to Generative Artificial Intelligence/7.Comparisons of traditional and foundational models.md",
     "5 - Notes/AWS/Educate/Introduction to Generative Artificial Intelligence/6.Foundation models.md",
     "5 - Notes/AWS/Educate/Introduction to Generative Artificial Intelligence/4.What is generative AI.md",
-    "5 - Notes/AWS/Educate/Introduction to Generative Artificial Intelligence/3.Course objectives.md",
-    "5 - Notes/AWS/Educate/Introduction to Generative Artificial Intelligence/2.Machine learning’s new path.md",
-    "5 - Notes/AWS/Educate/Introduction to Generative Artificial Intelligence/8.Prompt engineering.md",
-    "5 - Notes/AWS/Educate/Introduction to Generative Artificial Intelligence/Introduction to Generative Artificial Intelligence.md",
-    "3 - Indexes/AWS/Introduction to Generative Artificial Intelligence.md",
-    "5 - Notes/AWS/Educate/Introdução ao Console de Gerenciamento da AWS/Introdução ao Console de Gerenciamento da AWS.md",
     "5 - Notes/AWS/Educate/Introduction to Generative Artificial Intelligence",
-    "3 - Indexes/AWS/Introdução ao Console de Gerenciamento da AWS.md",
     "3 - Indexes/AWS",
     "5 - Notes/AWS/Educate/Introdução ao Console de Gerenciamento da AWS",
     "5 - Notes/AWS/Educate",
-    "1 - Simples notes/Reunião de TCC - Escopo do formulário.md",
     "6 - Daily/2025/03-MARCO",
     "1 - Simples notes/CCoE/Pipeline Chatbot Corporate.canvas",
     "1 - Simples notes/CCoE/ecare-mcr-portal-prdtítulo.canvas",
     "5 - Notes/Busuu/Japones/A1",
     "5 - Notes/Busuu/Japones",
-    "5 - Notes/Busuu",
-    "3 - Indexes/Busuu/Japones",
     "1 - Simples notes/CCoE/Sem título.canvas",
     "6 - Daily/2024/10-OUTUBRO/IntegraçãoDeTestes.canvas",
     "5 - Notes/OCI/Oracle Cloud Infrastructure AI FoundationsCourse 2024/2. AI Foundations/Objectives.canvas",

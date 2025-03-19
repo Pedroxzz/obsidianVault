@@ -6,7 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "📓"
+      "LiLibrary",
+      "📚",
+      "📅",
+      "LiLink",
+      "🛠"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,5 +34,11 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "1 - Simples notes": "📓"
+  "1 - Simples notes": "📓",
+  "2 - Source material": "🛠",
+  "3 - Indexes": "LiLink",
+  "5 - Notes": "📓",
+  "6 - Daily": "📅",
+  "7 - Dictionary": "📚",
+  "8 - Books": "LiLibrary"
 }
