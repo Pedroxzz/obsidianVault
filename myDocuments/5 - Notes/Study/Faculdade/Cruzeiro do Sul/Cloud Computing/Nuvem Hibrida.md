@@ -66,3 +66,27 @@ Essa empresa realizou um investimento na infraestrutura legada e utilizada servi
 
 ### Solução aplicada
 #### 1 - Modalidade de nuvem: Hibrida
+**Nuvem privada**: do Open Nebula para criação das maquinas virtuais no ambiente de nuvem privada, migrando todos os serviços necessários e realizando a integração de todas as máquinas, permitindo comunicação entre os serviços hospedados de forma isolada, como servidores web e servidores de infraestrutura responsáveis pelo controle  de usuários e administração de serviços de autenticação.
+
+**Nuvem hibrida**: implementação do RedHat Hybrid Cloud para unificar a carga de trabalho entre a nuvem privada e pública
+
+#### 2 - Escolha para o tipo de nuvem hibrida: IaaS (Infrastructure as a Service)
+**Nuvem pública**: contratação de IaaS Azure para a hospedagem de servidores único rodando o sistema de controle de inventario.
+
+### Resultados
+- Custo baixo de implementação da nuvem híbrida, contornando o problema da indisponibilidade de infraestrutura.
+- Melhor gerenciamento e otimização dos recursos com o uso de virtualização.
+- Garantia de segurança de dados críticos alocados na nuvem privada.
+- Benefícios da nuvem publica como disponibilidade, autosserviço e uso  sob demanda adicionados à infraestrutura local
+- Possibilidade do uso de [[Cloud Bursting]], utilizando a nuvem pública como redundância da nuvem privada em casos de falhas.
+- Facilidade no gerenciamento, centralizando os serviços e conectando as nuvens 
+
+# Artigos 
+## Padrões de arquitetura híbrida e em várias nuvens
+cloud.google.com/solutions/hybrid-and-multi-cloud-architecture-patterns?hl=pt-br
+
+## Padrões e práticas de implementações híbridas e em várias nuvens
+https://cloud.google.com/architecture/hybrid-multicloud-patterns?hl=pt-br
+
+## Topologias de rede híbrida e em várias nuvens
+https://cloud.google.com/architecture/hybrid-multicloud-secure-networking-patterns?hl=pt-br
