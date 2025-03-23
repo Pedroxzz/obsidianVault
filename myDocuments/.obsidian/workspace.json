@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b1249687983779b0",
+        "id": "0ca7f3a7a3c8f74b",
         "type": "tabs",
         "children": [
           {
-            "id": "a21d14835f14d9de",
+            "id": "78b5890d49836bbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Nuvem comunitária.md",
+                "file": "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Vantagens de cloud computing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nuvem comunitária"
-            }
-          },
-          {
-            "id": "3c928df4f336233b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 - Dictionary/TECH/QuickNotes/Cloud Bursting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cloud Bursting"
+              "title": "Vantagens de cloud computing"
             }
           }
         ]
@@ -68,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Saas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Nuvem comunitária.md",
+                "file": "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Vantagens de cloud computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Nuvem comunitária"
+              "title": "Links de saída para Vantagens de cloud computing"
             }
           },
           {
@@ -235,12 +221,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ddc0e215e9add315",
+  "active": "78b5890d49836bbf",
   "lastOpenFiles": [
-    "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Nuvem Hibrida.md",
-    "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Nuvem comunitária.md",
-    "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Nuvem pública.md",
+    "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Desenvolvimento em cloud computing.md",
+    "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Vantagens de cloud computing.md",
     "7 - Dictionary/TECH/QuickNotes/Cloud Bursting.md",
+    "7 - Dictionary/TECH/SaaS.md",
+    "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Nuvem comunitária.md",
+    "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Nuvem Hibrida.md",
+    "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Nuvem pública.md",
     "7 - Dictionary/TECH/QuickNotes/Cluster.md",
     "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Arquitetura e anatomia de cloud computing.md",
     "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Nuvem híbrida.md",
@@ -272,9 +261,6 @@
     "Pasted image 20250312142500.png",
     "Pasted image 20250312142416.png",
     "6 - Daily/2025/03-MARCO/2025-03-11.md",
-    "6 - Daily/2025/03-MARCO/2025-03-10.md",
-    "6 - Daily/2025/03-MARCO/03-marco.md",
-    "5 - Notes/AWS/AWS Outpost/Servidores AWS Outpost.md",
     "5 - Notes/AWS/AWS Outpost",
     "5 - Notes/AWS/Educate/Introduction to Generative Artificial Intelligence",
     "3 - Indexes/AWS",

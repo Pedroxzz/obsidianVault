@@ -43,3 +43,36 @@ Você já ouvir falar da Salesforce Community Cloud ? Trata-se de um novo padrã
 
 A plataforma  tem o objetivo de conectar organizações que mantém seus serviços distribuídos , utilizando a computação em nuvem e, mais especificamente,  o modelo de nuvem comunitária.
 
+## Salesforce Community  Cloud - Salesforce
+Vantagens da plataforma on-line de nuvem comunitária da Salesforce.
+Conheça os recursos que ela oferece e as possibilidades de aplicação para organizações que decidiram implementar uma nuvem comunitária
+
+### Características da nuvem comunitária e da plataforma
+
+| **Alcance**                                 | **Plataforma Salesforce**                    |
+| ------------------------------------------- | -------------------------------------------- |
+| Compartilhamento de recursos computacionais | Integração facilitada                        |
+| Controle de ambiente conjunto               | Integração customizada entre as organizações |
+| Baixo custo de manutenção                   | Controle de conteúdo e de dados              |
+| Maior segurança do que na nuvem pública     |                                              |
+|                                             |                                              |
+## Como funciona a Community Cloud Salesforce 
+### Funcionamento 
+Os dados da comunidade ficam disponíveis na plataforma e podem ser compartilhados externamente por meio da comunidade criada pelas organizações, sendo controlados por um ou mais administradores, responsáveis pela visibilidade dos dados e definindo as politicas de acesso para usuários internos
+
+### Vantagens de uso 
+- Criação customizada de experiencias, conforme as necessidades da comunidade.
+- Permite estender os  processos internos pela comunidade utilizando a interface.
+- Integração de dados de terceiros facilitando o trabalho na nuvem comunitária.
+- Criação de conteúdo e compartilhamento em outros canais de comunicação.
+
+# Saiba mais
+
+## Segurança em _cloud computing_: oportunidades e desafios
+https://www.researchgate.net/publication/272373406_Security_in_Cloud_Computing_Opportunities_and_Challenges
+
+## Análise teórica do modelo de nuvem governamental
+https://medium.com/internet-das-coisas/cloud-01-análise-teórica-do-modelo-de-nuvem-governamental-4caf35950ed2
+
+## Desmistificando a adoção de serviços em nuvem governamental
+https://d1.awsstatic.com/WWPS/pdf/IBGP_DESMISTIFICANDO.pdf
