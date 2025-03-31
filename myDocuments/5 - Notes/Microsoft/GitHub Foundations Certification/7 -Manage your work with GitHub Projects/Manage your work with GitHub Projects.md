@@ -18,10 +18,10 @@ In this module, you learn to:
 - A GitHub account
 - Access to an organization
 
-- Introduction
-- Projects versus Projects Classic
-- How to create a project
-- How to organize and automate your project
-- Insught and automation with projects
+- [[5 - Notes/Microsoft/GitHub Foundations Certification/7 -Manage your work with GitHub Projects/Introduction|Introduction]]
+- [[Projects versus Projects Classic]]
+- [[How to create a project]]
+- [[How to organize and automate your project]]
+- [[Insight and automation with projects]]
 - Knowledge check
 - Summary

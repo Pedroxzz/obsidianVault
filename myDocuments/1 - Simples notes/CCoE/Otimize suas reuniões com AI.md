@@ -1,5 +1,6 @@
 ---
 tags:
+  - "#aws"
 ---
 # Desafios das Reuniões atuais
 
@@ -131,5 +132,3 @@ O LMA possui integração ao Amazon CloudWatch Logs, para monitorar todos os ser
 - Acesso o CloudFormation e selecionar a sua Pilha LMA já existente
 - Clique em Deletar
 - Alguns recursos precisam ser excluídos manualmente, como Bucket S3, DynamoDB e os grupos CloudWatch Logs
-****![[Pasted image 20250312144412.png]]
-![[Pasted image 20250312144745.png]]

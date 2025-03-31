@@ -56,7 +56,7 @@ Após a implantação e um conjunto de testes que analisaram o tráfego semanal 
 
 # Saiba mais
 
-## Crescimento de infra em nuvem _**versus**_ TI tradicional
+## Crescimento de infra em nuvem versus TI tradicional
 https://www.youtube.com/embed/r9rEJ-Rgc8M
 
 ## As maiores vantagens da computação em nuvem para empresas

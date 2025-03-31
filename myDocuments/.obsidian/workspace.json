@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0ca7f3a7a3c8f74b",
+        "id": "6974b4ee8673bf7c",
         "type": "tabs",
         "children": [
           {
-            "id": "78b5890d49836bbf",
+            "id": "3d4ae89e26a2bee4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Vantagens de cloud computing.md",
+                "file": "6 - Daily/2025-03-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vantagens de cloud computing"
+              "title": "2025-03-31"
             }
           }
         ]
@@ -33,7 +33,6 @@
       {
         "id": "7896ddc7180d3576",
         "type": "tabs",
-        "dimension": 72.37569060773481,
         "children": [
           {
             "id": "4ee2eb6c24704379",
@@ -76,28 +75,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "4cff79df0f667365",
-        "type": "tabs",
-        "dimension": 27.624309392265197,
-        "children": [
-          {
-            "id": "0e4d40303e6ddb04",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9d188c02af334e54",
@@ -106,6 +87,7 @@
       {
         "id": "b8e4a659b6bf37a3",
         "type": "tabs",
+        "dimension": 47.714285714285715,
         "children": [
           {
             "id": "54e6b9b38bf774b3",
@@ -147,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Vantagens de cloud computing.md",
+                "file": "6 - Daily/2025-03-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Vantagens de cloud computing"
+              "title": "Links de saída para 2025-03-26"
             }
           },
           {
@@ -161,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Nuvem Hibrida.md",
+                "file": "6 - Daily/2025-03-26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Nuvem Hibrida"
+              "title": "Sumário de 2025-03-26"
             }
           },
           {
@@ -186,6 +168,7 @@
       {
         "id": "90925d8768ca5734",
         "type": "tabs",
+        "dimension": 52.28571428571429,
         "children": [
           {
             "id": "aec10509a4240109",
@@ -201,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 231.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,36 +204,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78b5890d49836bbf",
+  "active": "3d4ae89e26a2bee4",
   "lastOpenFiles": [
-    "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Desenvolvimento em cloud computing.md",
-    "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Vantagens de cloud computing.md",
-    "7 - Dictionary/TECH/QuickNotes/Cloud Bursting.md",
-    "7 - Dictionary/TECH/SaaS.md",
-    "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Nuvem comunitária.md",
-    "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Nuvem Hibrida.md",
-    "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Nuvem pública.md",
-    "7 - Dictionary/TECH/QuickNotes/Cluster.md",
-    "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Arquitetura e anatomia de cloud computing.md",
-    "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Nuvem híbrida.md",
-    "6 - Daily/2025-03-21.md",
-    "6 - Daily/2025-03-20.md",
-    "6 - Daily/2025/03-MARCO/2025-03-19.md",
-    "6 - Daily/2025/03-MARCO/2025-03-18.md",
-    "5 - Notes/AWS/Skill Builder/AWS Cloud Practitioner Essentials/AWS Cloud Practitioner Essentials.md",
-    "6 - Daily/2025/03-MARCO/2025-03-17.md",
-    "5 - Notes/AWS/Skill Builder/AWS Cloud Practitioner Essentials/Module 2 Compute in the cloud/Module 2 Compute in the cloud.md",
-    "4 - Templates/Books.md",
-    "3 - Indexes/AWS/AWS Cloud Practitioner Essentials.md",
+    "6 - Daily/2025-03-27.md",
+    "6 - Daily/2025-03-31.md",
+    "1 - Simples notes/CCoE/Otimize suas reuniões com AI.md",
+    "2 - Source material/Images/CCoE/LMA Arquiteura.png",
+    "6 - Daily/2025-03-26.md",
+    "6 - Daily/2025/03-MARCO/2025-03-25.md",
+    "Pasted image 20250325150827.png",
+    "1 - Simples notes/CCoE/AWS Outpost.md",
+    "Pasted image 20250325152811.png",
+    "1 - Simples notes/CCoE/Pipeline Chatbot Corporate.canvas",
+    "1 - Simples notes/CCoE/Residencial - Docker.md",
+    "1 - Simples notes/CCoE/Tópicos de Estudo - Interraform.md",
+    "1 - Simples notes/CCoE/Workshop Cloudfront I AWS.md",
+    "6 - Daily/2025/03-MARCO/2025-03-24.md",
+    "5 - Notes/AWS/AWS Outpost/Servidores AWS Outpost.md",
+    "5 - Notes/AWS/AWS Outpost/Rack do AWS Outpost.md",
+    "5 - Notes/AWS/AWS Outpost/AWS Outpost.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/8 - Communicate effectively on GitHub using Markdown/Summary.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/8 - Communicate effectively on GitHub using Markdown/Communicate effectively on GitHub using Markdown.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/8 - Communicate effectively on GitHub using Markdown/Exercise - Communicate using Markdown.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/8 - Communicate effectively on GitHub using Markdown/Sem título.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/8 - Communicate effectively on GitHub using Markdown/Introduction.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/7 -Manage your work with GitHub Projects/Manage your work with GitHub Projects.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/8 - Communicate effectively on GitHub using Markdown",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/7 -Manage your work with GitHub Projects/Projects versus Projects Classic.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/7 -Manage your work with GitHub Projects/How to create a project.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/7 -Manage your work with GitHub Projects/How to organize and automate your project.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/7 -Manage your work with GitHub Projects/Insight and automation with projects.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/7 -Manage your work with GitHub Projects/How to organize your project.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/7 -Manage your work with GitHub Projects/Introduction.md",
+    "5 - Notes/Microsoft/GitHub Foundations Certification/1-Introduction to Git/Introduction.md",
+    "1 - Simples notes/TCC",
     "5 - Notes/AWS/Skill Builder/AWS Cloud Practitioner Essentials/Module 2 Compute in the cloud",
     "5 - Notes/AWS/Skill Builder/AWS Cloud Practitioner Essentials",
-    "6 - Daily/2025/03-MARCO/2025-03-14.md",
-    "6 - Daily/2025/03-MARCO/2025-03-13.md",
-    "6 - Daily/2025/03-MARCO/2025-03-12.md",
-    "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Nuvem Privada.md",
-    "5 - Notes/Study/Faculdade/Cruzeiro do Sul/Cloud Computing/Evolução tecnológica e paradigmas que permitiram cloud computing.md",
-    "2 - Source material/Images/CCoE/LMA Arquiteura.png",
-    "1 - Simples notes/CCoE/Otimize suas reuniões com AI.md",
     "Pasted image 20250312144412.png",
     "Pasted image 20250312144745.png",
     "Pasted image 20250312143925.png",
@@ -258,19 +247,13 @@
     "Pasted image 20250312143254.png",
     "Pasted image 20250312143259.png",
     "Pasted image 20250312142938.png",
-    "Pasted image 20250312142500.png",
-    "Pasted image 20250312142416.png",
-    "6 - Daily/2025/03-MARCO/2025-03-11.md",
     "5 - Notes/AWS/AWS Outpost",
     "5 - Notes/AWS/Educate/Introduction to Generative Artificial Intelligence",
     "3 - Indexes/AWS",
     "5 - Notes/AWS/Educate/Introdução ao Console de Gerenciamento da AWS",
     "5 - Notes/AWS/Educate",
     "6 - Daily/2025/03-MARCO",
-    "1 - Simples notes/CCoE/Pipeline Chatbot Corporate.canvas",
     "1 - Simples notes/CCoE/ecare-mcr-portal-prdtítulo.canvas",
-    "5 - Notes/Busuu/Japones/A1",
-    "5 - Notes/Busuu/Japones",
     "1 - Simples notes/CCoE/Sem título.canvas",
     "6 - Daily/2024/10-OUTUBRO/IntegraçãoDeTestes.canvas",
     "5 - Notes/OCI/Oracle Cloud Infrastructure AI FoundationsCourse 2024/2. AI Foundations/Objectives.canvas",
