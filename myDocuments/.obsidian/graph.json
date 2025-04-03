@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"6 - Daily\"  ",
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 672865
       }
+    },
+    {
+      "query": "path:\"5 - Notes/Codecademy\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4933961
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.02578559279939011,
+  "scale": 0.7671950961065216,
   "close": true
 }

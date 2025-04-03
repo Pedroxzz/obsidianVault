@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6974b4ee8673bf7c",
+        "id": "46ee5d2a3d91afe0",
         "type": "tabs",
         "children": [
           {
-            "id": "3d4ae89e26a2bee4",
+            "id": "1a08b51457311e33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Daily/2025-03-31.md",
+                "file": "6 - Daily/2025/04-ABRIL/2025-04-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-31"
+              "title": "2025-04-01"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9d188c02af334e54",
@@ -204,13 +205,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d4ae89e26a2bee4",
+  "active": "1a08b51457311e33",
   "lastOpenFiles": [
-    "6 - Daily/2025-03-27.md",
-    "6 - Daily/2025-03-31.md",
+    "5 - Notes/Codecademy/CLF-C02 AWS Certified Cloud Practitioner/Cloud Concepts/AWS Cloud Practitioner 2023 Benefits & Design Principles of the AWS Cloud.md",
+    "3 - Indexes/Codecademy/CLF-C02 AWS Certified Cloud Practitioner/Cloud Concepts.md",
+    "5 - Notes/Codecademy/CLF-C02 AWS Certified Cloud Practitioner/CLF-C02 AWS Certified Cloud Practitioner.md",
+    "3 - Indexes/Codecademy/CLF-C02 AWS Certified Cloud Practitioner/CLF-C02 AWS Certified Cloud Practitioner.md",
+    "5 - Notes/Codecademy/CLF-C02 AWS Certified Cloud Practitioner/Cloud Concepts/AWS Cloud Practitioner 2023 Benefits & Design Principles of the AWS Cloud",
+    "5 - Notes/Codecademy/CLF-C02 AWS Certified Cloud Practitioner/Cloud Concepts",
+    "6 - Daily/2025/04-ABRIL/2025-04-01.md",
+    "3 - Indexes/Codecademy/CLF-C02 AWS Certified Cloud Practitioner",
+    "5 - Notes/Codecademy/CLF-C02 AWS Certified Cloud Practitioner",
+    "6 - Daily/2025/04-ABRIL/04-abril.md",
+    "6 - Daily/2025/04-ABRIL",
+    "6 - Daily/2025/03-MARCO/2025-03-31.md",
+    "6 - Daily/2025/03-MARCO/2025-03-26.md",
+    "6 - Daily/2025/03-MARCO/2025-03-27.md",
+    "6 - Daily/2025/2025.md",
     "1 - Simples notes/CCoE/Otimize suas reuniões com AI.md",
     "2 - Source material/Images/CCoE/LMA Arquiteura.png",
-    "6 - Daily/2025-03-26.md",
     "6 - Daily/2025/03-MARCO/2025-03-25.md",
     "Pasted image 20250325150827.png",
     "1 - Simples notes/CCoE/AWS Outpost.md",
@@ -228,15 +241,7 @@
     "5 - Notes/Microsoft/GitHub Foundations Certification/8 - Communicate effectively on GitHub using Markdown/Exercise - Communicate using Markdown.md",
     "5 - Notes/Microsoft/GitHub Foundations Certification/8 - Communicate effectively on GitHub using Markdown/Sem título.md",
     "5 - Notes/Microsoft/GitHub Foundations Certification/8 - Communicate effectively on GitHub using Markdown/Introduction.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/7 -Manage your work with GitHub Projects/Manage your work with GitHub Projects.md",
     "5 - Notes/Microsoft/GitHub Foundations Certification/8 - Communicate effectively on GitHub using Markdown",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/7 -Manage your work with GitHub Projects/Projects versus Projects Classic.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/7 -Manage your work with GitHub Projects/How to create a project.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/7 -Manage your work with GitHub Projects/How to organize and automate your project.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/7 -Manage your work with GitHub Projects/Insight and automation with projects.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/7 -Manage your work with GitHub Projects/How to organize your project.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/7 -Manage your work with GitHub Projects/Introduction.md",
-    "5 - Notes/Microsoft/GitHub Foundations Certification/1-Introduction to Git/Introduction.md",
     "1 - Simples notes/TCC",
     "5 - Notes/AWS/Skill Builder/AWS Cloud Practitioner Essentials/Module 2 Compute in the cloud",
     "5 - Notes/AWS/Skill Builder/AWS Cloud Practitioner Essentials",
@@ -248,11 +253,6 @@
     "Pasted image 20250312143259.png",
     "Pasted image 20250312142938.png",
     "5 - Notes/AWS/AWS Outpost",
-    "5 - Notes/AWS/Educate/Introduction to Generative Artificial Intelligence",
-    "3 - Indexes/AWS",
-    "5 - Notes/AWS/Educate/Introdução ao Console de Gerenciamento da AWS",
-    "5 - Notes/AWS/Educate",
-    "6 - Daily/2025/03-MARCO",
     "1 - Simples notes/CCoE/ecare-mcr-portal-prdtítulo.canvas",
     "1 - Simples notes/CCoE/Sem título.canvas",
     "6 - Daily/2024/10-OUTUBRO/IntegraçãoDeTestes.canvas",
