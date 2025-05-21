@@ -1,0 +1,6 @@
+/* Remove linhas verticais de listas aninhadas */
+ul ul, ol ol {
+    border-left: none !important;
+    padding-left: 1em !important;
+  }
+  
