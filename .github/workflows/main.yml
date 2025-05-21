@@ -1,4 +1,4 @@
-ame: Deploy para Google Drive
+name: Deploy para Google Drive
 
 on:
   push:
