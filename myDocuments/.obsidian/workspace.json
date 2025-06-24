@@ -85,8 +85,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,7 +204,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ddc0e215e9add315",
+  "active": "4ee2eb6c24704379",
   "lastOpenFiles": [
     "4 - Notes/AWS/Skill Builder/AWS Cloud Practitioner Essentials/AWS Cloud Practitioner Essentials.md",
     "4 - Notes/AWS/Skill Builder/AWS Cloud Practitioner Essentials/Module 1 - Introduction to the Cloud.md",
