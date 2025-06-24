@@ -10,7 +10,7 @@ Material abordado no programa da Latam AWS Partner Certification onde foi aborda
 
 ---
 # Conceitos de computação em nuvem 
-## O que é um [[data center]]?
+## O que é um [[Data center]]?
 Um local físico que armazena máquinas de computação e seus equipamentos de hardware relacionados. Ele contém a infraestrutura de computação necessária para os sistemas de TI, como servidores, unidades de armazenamento de dados e equipamentos de rede. É a instalação física que guarda os dados digitais de qualquer empresa.
 ### Data Centers Tradicionais
 A empresa é 100% responsável por adquirir o local, desenvolvê-lo e garantir sua segurança. O hardware adequado deve ser adquirido, instalado e mantido.
@@ -18,7 +18,7 @@ A empresa é 100% responsável por adquirir o local, desenvolvê-lo e garantir s
 O "trabalho pesado indiferenciado" de gerenciar o data center é realizado pelo provedor de serviços em nuvem, permitindo que os clientes se concentrem na entrega de valor.
 
 
-## O que é [[nuvem]]?
+## O que é [[Nuvem]]?
 - Modelo de responsabilidade compartilhada
 - Não cuida do hardware, apenas do serviço
 

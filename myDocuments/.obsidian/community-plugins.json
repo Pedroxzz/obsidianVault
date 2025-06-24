@@ -2,17 +2,16 @@
   "table-editor-obsidian",
   "dataview",
   "colored-text",
-  "highlightr-plugin",
   "obsidian-latex-suite",
   "obsidian-git",
   "templater-obsidian",
   "obsidian-book-search-plugin",
   "obsidian-projects",
-  "obsidian-kindle-plugin",
   "obsidian-importer",
-  "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
   "calendar",
   "colored-tags",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "tag-wrangler",
+  "multi-column-markdown"
 ]

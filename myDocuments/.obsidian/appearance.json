@@ -1,9 +1,13 @@
 {
   "accentColor": "#4700cc",
-  "cssTheme": "Tokyo Night",
+  "cssTheme": "Border",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "no-lines",
     "no-list-guides"
-  ]
+  ],
+  "baseFontSize": 18,
+  "interfaceFontFamily": "American Typewriter",
+  "textFontFamily": "American Typewriter",
+  "monospaceFontFamily": "American Typewriter"
 }

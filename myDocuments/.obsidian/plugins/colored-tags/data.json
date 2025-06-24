@@ -44,7 +44,14 @@
     "excalidraw": 32,
     "aws/skillbuilder": 1,
     "aws/skl": 2,
-    "ccoe": 33
+    "ccoe": 33,
+    "data": 34,
+    "️": 35,
+    "lean": 36,
+    "agile": 37,
+    "safe": 38,
+    "eks": 39,
+    "cloud": 40
   },
   "_version": 3
 }

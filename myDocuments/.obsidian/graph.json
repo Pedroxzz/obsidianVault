@@ -1,49 +1,49 @@
 {
   "collapse-filter": true,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"6 - Daily\"  ",
+      "query": "path:\"5 - Daily\"  ",
       "color": {
         "a": 1,
-        "rgb": 14812112
+        "rgb": 12396723
       }
     },
     {
-      "query": "path:\"5 - Notes/Study/Faculdade\"  ",
+      "query": "path:\"4 - Notes/Study/Faculdade\"  ",
       "color": {
         "a": 1,
         "rgb": 16585234
       }
     },
     {
-      "query": "path:\"7 - Dictionary/TECH\"  ",
+      "query": "path:\"6 - Dictionary/TECH\"  ",
       "color": {
         "a": 1,
         "rgb": 12267
       }
     },
     {
-      "query": "path:\"5 - Notes/AWS\"  ",
+      "query": "path:\"4- Notes/AWS\"  ",
       "color": {
         "a": 1,
         "rgb": 9921041
       }
     },
     {
-      "query": "path:\"5 - Notes/Microsoft\"  ",
+      "query": "path:\"4 - Notes/Microsoft\"  ",
       "color": {
         "a": 1,
         "rgb": 672865
       }
     },
     {
-      "query": "path:\"5 - Notes/Codecademy\"  ",
+      "query": "path:\"4 - Notes/Codecademy\"  ",
       "color": {
         "a": 1,
         "rgb": 4933961
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3108287282159353,
+  "scale": 0.0832768141350234,
   "close": true
 }
