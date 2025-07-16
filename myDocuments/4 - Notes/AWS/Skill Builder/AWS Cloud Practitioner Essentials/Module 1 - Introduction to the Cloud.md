@@ -201,3 +201,59 @@ An Availability Zone consists of one or more data centers with redundant power, 
 AWS infrastructure is designed with high availability and fault tolerance in mind. Availability Zones (AZs) are configured as isolated resources, and they are each equipped with independent power, networking, and connectivity.
 
 It's recommended to distribute your resources across multiple AZs. That way, if one AZ encounters an outage, your business applications will continue to operate without interruption. With this approach of redundancy and resource isolation, AWS customers can achieve the benefits of high availability and fault tolerance.
+
+---
+# The AWS Shared Responsibility Model
+**In this lesson, you will learn how to do the following:**
+- Describe and differentiate between customer responsibilities, AWS responsibilities, and shared responsibilities in the AWS Cloud.
+- Describe the components of the AWS Shared Responsibility Model.
+
+The AWS Shared Responsibility Model is a concept designed to help AWS and customers work together to create a secure, functional cloud environment. In this lesson, you learn about the components of the AWS Shared Responsibility Model. With a clear understanding of cloud computing responsibilities, organizations can better navigate the complexities of cloud security.
+
+---
+When it comes to securing your business on AWS, it's important to ask the question: Who is ultimately responsible for the security? Is it A: You, the customer? or B: AWS? And the correct answer is: Yes. Both. Both are ultimately responsible for making sure that your workloads are secure.
+
+This is what's known as the AWS Shared Responsibility Model. And it's similar to securing a house. The builder constructed the house with four walls and a door. It's their responsibility to make sure the walls are strong and the doors are solid. It's your responsibility as the homeowner to close and lock those doors. And it really is that straightforward on AWS as well.
+
+One helpful way to think about it is that AWS is responsible for security of the cloud. The customer is responsible for security in the cloud. AWS is responsible for the physical, network, and hypervisor layers. The physical layer is just that: the physical realities of a computer. Access to the hardware has to be secured with locks on doors, access control lists, privilege separation, and a lot more. Similarly, the network layer and the hypervisor virtualization layer have their own protections to ensure isolation of the different AWS customer workloads.
+
+Now let’s talk about customer responsibilities. You're 100 percent in charge of your operating system. AWS does not have a back door into your system here. You and you alone have the only encryption key to log in to this OS or to create any user accounts there. I mean, no more than a construction company would keep copies of your front door key, AWS cannot enter your operating system. That means your operations team is responsible for keeping the OS patched. If AWS discovers there are some new vulnerabilities in your version of the operating system, we can certainly notify your account owner, but we cannot deploy a patch. The construction company can install high quality locks to secure your home, but they aren’t going to come lock the door for you every time you leave.
+
+Same goes for the applications you're running: You own them and you secure them. Which takes us to the next part of the stack: data. This is your domain to control. And sometimes you might want to have your data open for everyone to see, like pictures on a retail website. Other times, like banking or healthcare, yeah, not so much.
+
+AWS provides everyone with the controls to open it up to some authorized individuals, to everyone, to just a single person under specific conditions, or even to lock it down so no one can access it. Plus, you have the ability to encrypt your data. That way even if you accidentally left your front door open, all anyone would see is unreadable encrypted content.
+
+The AWS Shared Responsibility Model is about making sure both sides understand exactly which tasks are ours and which tasks are the customer’s. Depending on the service used, responsibility can shift, and we'll talk more about specifics as we come across different services.
+
+Again, at a basic level, it's important to remember that AWS is responsible for the security of the cloud, and you are responsible for the security in the cloud. Together, you have an environment you can trust.
+
+---
+
+# Applying Cloud Concepts to Real Life Use Cases
+
+**In this lesson, you will learn how to do the following:**
+
+- Explain how fundamental cloud concepts, such as the AWS Global Infrastructure and AWS Shared Responsibility Model, work together to form real-world business solutions.
+
+You've learned about some fundamental cloud concepts, like how cloud computing works, the basics of AWS Global Infrastructure, and the AWS Shared Responsibility Model. It's important to build your knowledge of cloud computing piece by piece. However, in reality, the concepts you learn about in this training work together, not separately. In this lesson, you explore your first example of the Cloud in Real Life, piecing together how abstract cloud concepts work together to drive innovation and efficiency for your business.
+
+
+## Cloud in real life: Infrastructure and shared responsibility
+
+In the preceding video, you examined how AWS Global Infrastructure and the AWS Shared Responsibility Model work together for your business solution. For this use case, the global ecommerce company deployed resources to multiple AWS Regions and Availability Zones. To learn more about the benefits this infrastructure design achieves and how AWS and the company share responsibility, choose each of the following three numbered markers.
+
+## Ecommerce company expansion
+
+This ecommerce company is based in Seattle, Washington in the United States. The company wants to expand to global locations. However, the further the computing infrastructure is from their customers, the longer the latency. The company decides to expand to global AWS Regions to better reach their global customers.
+
+## Global expansion one: Ireland
+
+The company deploys resources to the eu-west-1 Region in Ireland. Deploying in multiple Regions increases high availability. The company increases fault-tolerance and high availability even more by deploying to two Availability Zones in this Region.
+
+The company does not need to worry about securing the data center in Ireland because securing the physical infrastructure is an AWS responsibility. The company can instead focus on securing and encrypting their data within their cloud resources.
+
+## Global expansion two: Singapore
+
+The company has a significant customer base in Asia, too. So, they deploy resources to the ap-southwest-1 AWS Region in Singapore.
+
+Rather than having to set up physical infrastructure at an international scale, which can take months or years, the company used AWS to deploy global operations within a matter of minutes.
